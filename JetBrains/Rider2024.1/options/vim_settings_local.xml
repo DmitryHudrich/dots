@@ -1,0 +1,330 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-search />
+      <history-cmd>
+        <entry encoding="base64">ZQ==</entry>
+        <entry encoding="base64">RQ==</entry>
+        <entry encoding="base64">ZSBBcHAucmF6b3I=</entry>
+        <entry encoding="base64">UGw=</entry>
+        <entry encoding="base64">Rm9ybWF0</entry>
+        <entry encoding="base64">RmlsZQ==</entry>
+        <entry encoding="base64">UGx1Z0luc3RhbGw=</entry>
+        <entry encoding="base64">d2E=</entry>
+      </history-cmd>
+      <history-expr />
+      <history-input />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/RiderProjects/BlazorApp1">
+      <jump line="6" column="5" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/MainLayout.razor" />
+      <jump line="11" column="16" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/MainLayout.razor" />
+      <jump line="9" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/MainLayout.razor" />
+      <jump line="15" column="5" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/MainLayout.razor" />
+      <jump line="13" column="17" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/MainLayout.razor" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Program.cs" />
+      <jump line="7" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Program.cs" />
+      <jump line="1" column="16" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/MainLayout.razor" />
+      <jump line="3" column="17" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/MainLayout.razor" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/NavMenu.razor" />
+      <jump line="8" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/NavMenu.razor" />
+      <jump line="6" column="4" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/NavMenu.razor" />
+      <jump line="32" column="74" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/NavMenu.razor" />
+      <jump line="33" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/NavMenu.razor" />
+      <jump line="28" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/NavMenu.razor" />
+      <jump line="29" column="6" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Layout/NavMenu.razor" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/App.razor" />
+      <jump line="9" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Program.cs" />
+      <jump line="8" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/Program.cs" />
+      <jump line="0" column="0" filename="$APPLICATION_CONFIG_DIR$/scratches/Tutor.txt" />
+      <jump line="8" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/_Imports.razor" />
+      <jump line="9" column="13" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/App.razor" />
+      <jump line="7" column="36" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/App.razor" />
+      <jump line="2" column="65" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/App.razor" />
+      <jump line="11" column="8" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/App.razor" />
+      <jump line="1" column="8" filename="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1/App.razor" />
+    </project>
+    <project id="$USER_HOME$/RiderProjects/BlazorApp2">
+      <jump line="21" column="27" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/327f875fd92c358a2c6b3c48cc81b288070ecb997371cd17419f80a482a617/LayoutComponentBase.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/App.razor" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Program.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/_Imports.razor" />
+      <jump line="2" column="13" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Layout/MainLayout.razor" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/wwwroot/index.html" />
+      <jump line="3" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Layout/MainLayout.razor" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Pages/Home.razor" />
+      <jump line="4" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Pages/Home.razor" />
+      <jump line="4" column="4" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Layout/MainLayout.razor" />
+      <jump line="8" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/_Imports.razor" />
+      <jump line="5" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Pages/Home.razor" />
+      <jump line="2" column="48" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/App.razor" />
+      <jump line="9" column="20" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/App.razor" />
+      <jump line="6" column="39" filename="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/App.razor" />
+    </project>
+    <project id="$USER_HOME$/RiderProjects/BlazorApp3">
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Layout/MainLayout.razor" />
+      <jump line="0" column="8" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="3" column="4" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Bebra.razor" />
+      <jump line="9" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Bebra.razor" />
+      <jump line="6" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Bebra.razor" />
+      <jump line="7" column="6" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Bebra.razor" />
+      <jump line="5" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Bebra.razor" />
+      <jump line="2" column="4" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Bebra.razor" />
+      <jump line="31" column="24" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/app.css" />
+      <jump line="73" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/app.css" />
+      <jump line="75" column="15" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/app.css" />
+      <jump line="76" column="1" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/app.css" />
+      <jump line="1" column="20" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/app.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/App.razor" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Program.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/index.html" />
+      <jump line="20" column="9" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/index.html" />
+      <jump line="25" column="6" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/index.html" />
+      <jump line="1" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Bebra.razor" />
+      <jump line="13" column="18" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="8" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="7" column="6" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="16" column="31" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="11" column="1" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="6" column="12" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="1" column="21" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/style.css" />
+      <jump line="8" column="18" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/style.css" />
+      <jump line="11" column="1" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/style.css" />
+      <jump line="0" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="22" column="3" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/index.html" />
+      <jump line="2" column="1" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/style.css" />
+      <jump line="7" column="23" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/style.css" />
+      <jump line="10" column="7" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/app.css" />
+      <jump line="10" column="71" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/index.html" />
+      <jump line="14" column="54" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/index.html" />
+      <jump line="12" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/index.html" />
+      <jump line="4" column="1" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/style.css" />
+      <jump line="9" column="22" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/style.css" />
+      <jump line="3" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="2" column="15" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="1" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Layout/MainLayout.razor" />
+      <jump line="3" column="4" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Components/Footer.razor" />
+      <jump line="4" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="5" column="14" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" />
+      <jump line="9" column="1" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Components/BebraFooter.razor" />
+      <jump line="8" column="4" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Components/BebraFooter.razor" />
+      <jump line="6" column="0" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Components/BebraFooter.razor" />
+      <jump line="5" column="10" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Components/BebraFooter.razor" />
+      <jump line="10" column="1" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/style.css" />
+      <jump line="7" column="7" filename="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Components/BebraFooter.razor" />
+    </project>
+    <project id="$USER_HOME$/RiderProjects/ConsoleApp1">
+      <jump line="6" column="9" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="2" column="13" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="1" column="0" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="0" column="12" filename="$USER_HOME$/.ideavimrc" />
+      <jump line="2" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/BebraMath.fs" />
+      <jump line="274" column="8" filename="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/367d751caa11c5299ef412d27bfb726172d984753581af1af10e3e189c9/fslib-extra-pervasives.fs" />
+      <jump line="3" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="3" column="26" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/BebraMath.fs" />
+      <jump line="1" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/BebraMath.fs" />
+      <jump line="5" column="1" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="6" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="10" column="19" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="14" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="16" column="27" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="2" column="23" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="29" column="36" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="32" column="25" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="30" column="55" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="36" column="63" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="38" column="28" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="35" column="5" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="39" column="20" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="45" column="29" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="43" column="18" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="47" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="1" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="4" column="28" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="0" column="14" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="8" column="46" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="15" column="44" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="50" column="8" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="17" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="18" column="10" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="28" column="3" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="24" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="25" column="2" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="19" column="36" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+      <jump line="21" column="29" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" />
+    </project>
+    <project id="$USER_HOME$/RiderProjects/Bebra">
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/Bebra/Bebra.Api/Controllers/WeatherForecastController.fs" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/Bebra/Bebra.Api/Program.fs" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/367d751caa11c5299ef412d27bfb726172d984753581af1af10e3e189c9/fslib-extra-pervasives.fs" timestamp="1714925896192">
+        <mark key="&quot;" line="274" column="8" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/style.css" timestamp="1714856869475">
+        <mark key="[" line="8" column="22" />
+        <mark key="]" line="8" column="22" />
+        <mark key="^" line="8" column="22" />
+        <mark key="." line="8" column="21" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Components/Footer.razor" timestamp="1714857002362">
+        <mark key="[" line="3" column="4" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.fs" timestamp="1715263931120">
+        <mark key="&quot;" line="24" column="0" />
+        <mark key="[" line="19" column="37" />
+        <mark key="]" line="25" column="3" />
+        <mark key="^" line="25" column="3" />
+        <mark key="." line="25" column="2" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Program.cs" timestamp="1714853865210">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/Bebra/Bebra.Api/Controllers/WeatherForecastController.fs" timestamp="1715264208926">
+        <mark key="&quot;" line="21" column="17" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Bebra.razor" timestamp="1714856973184">
+        <mark key="&quot;" line="1" column="0" />
+        <mark key="[" line="1" column="0" />
+        <mark key="]" line="1" column="0" />
+        <mark key="." line="1" column="0" />
+        <mark key="^" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/index.html" timestamp="1714856817709">
+        <mark key="[" line="12" column="0" />
+        <mark key="]" line="12" column="0" />
+        <mark key="^" line="12" column="0" />
+        <mark key="." line="12" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Layout/MainLayout.razor" timestamp="1714855194782">
+        <mark key="[" line="1" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/wwwroot/css/app.css" timestamp="1714855251788">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+        <mark key="^" line="0" column="1" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/Bebra/Bebra.Api/Program.fs" timestamp="1715264623784">
+        <mark key="[" line="0" column="1" />
+        <mark key="]" line="0" column="1" />
+        <mark key="^" line="0" column="1" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/App.razor" timestamp="1714853865191">
+        <mark key="&quot;" line="1" column="30" />
+        <mark key="[" line="2" column="40" />
+        <mark key="]" line="1" column="31" />
+        <mark key="." line="1" column="30" />
+        <mark key="^" line="1" column="31" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/_Imports.razor" timestamp="1714853865217">
+        <mark key="&quot;" line="8" column="0" />
+        <mark key="[" line="8" column="0" />
+        <mark key="]" line="8" column="0" />
+        <mark key="^" line="8" column="24" />
+        <mark key="." line="8" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Layout/MainLayout.razor" timestamp="1714850653476">
+        <mark key="&quot;" line="4" column="4" />
+        <mark key="'" line="4" column="2" />
+        <mark key="[" line="4" column="6" />
+        <mark key="]" line="4" column="5" />
+        <mark key="^" line="4" column="5" />
+        <mark key="." line="4" column="4" />
+      </file>
+      <file name="$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/327f875fd92c358a2c6b3c48cc81b288070ecb997371cd17419f80a482a617/LayoutComponentBase.cs" timestamp="1714853865224">
+        <mark key="&quot;" line="21" column="27" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3/Pages/Home.razor" timestamp="1714857140489">
+        <mark key="'" line="5" column="2" />
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="0" />
+        <mark key="^" line="4" column="0" />
+        <mark key="." line="4" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/Pages/Home.razor" timestamp="1714853865180">
+        <mark key="&quot;" line="5" column="0" />
+        <mark key="[" line="5" column="0" />
+        <mark key="]" line="5" column="0" />
+        <mark key="^" line="5" column="0" />
+        <mark key="." line="5" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2/wwwroot/index.html" timestamp="1714853865186">
+        <mark key="&quot;" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/.ideavimrc" timestamp="1714925901282">
+        <mark key="&quot;" line="0" column="12" />
+        <mark key="'" line="0" column="12" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="13" />
+        <mark key="." line="0" column="12" />
+        <mark key="^" line="0" column="13" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/BebraMath.fs" timestamp="1715263931237">
+        <mark key="&quot;" line="1" column="0" />
+        <mark key="[" line="2" column="0" />
+        <mark key="]" line="3" column="26" />
+        <mark key="^" line="3" column="26" />
+        <mark key="." line="3" column="25" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Ly8gRm9yIG1vcmUgaW5mb3JtYXRpb24gc2VlIGh0dHBzOi8vYWthLm1zL2ZzaGFycC1jb25zb2xlLWFwcHMKcHJpbnRmbiAiSGVsbG8gZnJvbSBGIyIK</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">dHJ1ZQ==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">IA==</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Ly8gRm9yIG1vcmUgaW5mb3JtYXRpb24gc2VlIGh0dHBzOi8vYWthLm1zL2ZzaGFycC1jb25zb2xlLWFwcHMKcHJpbnRmbiAiSGVsbG8gZnJvbSBGIyIK</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">cHJpbnRmbiAiSGVsbG8gZnJvbSBGIyIK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">Ly8gRm9yIG1vcmUgaW5mb3JtYXRpb24gc2VlIGh0dHBzOi8vYWthLm1zL2ZzaGFycC1jb25zb2xlLWFwcHMK</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">c2V0IG5vdGltZW91dAo=</text>
+      </register>
+      <register name="5" type="LINE_WISE">
+        <text encoding="base64">CmNhbGwgcGx1ZyNiZWdpbigpCgpQbHVnICdnaXJpc2hqaS9hdXRvc3VnZ2VzdC52aW0nCgoiIFRoZSBkZWZhdWx0IHBsdWdpbiBkaXJlY3Rvcnkgd2lsbCBiZSBhcyBmb2xsb3dzOgoiICAgLSBWaW0gKExpbnV4L21hY09TKTogJ34vLnZpbS9wbHVnZ2VkJwoiICAgLSBWaW0gKFdpbmRvd3MpOiAnfi92aW1maWxlcy9wbHVnZ2VkJwoiICAgLSBOZW92aW0gKExpbnV4L21hY09TL1dpbmRvd3MpOiBzdGRwYXRoKCdkYXRhJykgLiAnL3BsdWdnZWQnCiIgWW91IGNhbiBzcGVjaWZ5IGEgY3VzdG9tIHBsdWdpbiBkaXJlY3RvcnkgYnkgcGFzc2luZyBpdCBhcyB0aGUgYXJndW1lbnQKIiAgIC0gZS5nLiBgY2FsbCBwbHVnI2JlZ2luKCd+Ly52aW0vcGx1Z2dlZCcpYAoiICAgLSBBdm9pZCB1c2luZyBzdGFuZGFyZCBWaW0gZGlyZWN0b3J5IG5hbWVzIGxpa2UgJ3BsdWdpbicKCiIgTWFrZSBzdXJlIHlvdSB1c2Ugc2luZ2xlIHF1b3RlcwoKIiBTaG9ydGhhbmQgbm90YXRpb24gZm9yIEdpdEh1YjsgdHJhbnNsYXRlcyB0byBodHRwczovL2dpdGh1Yi5jb20vanVuZWd1bm4vdmltLWVhc3ktYWxpZ24KUGx1ZyAnanVuZWd1bm4vdmltLWVhc3ktYWxpZ24nCgoiIEFueSB2YWxpZCBnaXQgVVJMIGlzIGFsbG93ZWQKUGx1ZyAnaHR0cHM6Ly9naXRodWIuY29tL2p1bmVndW5uL3Nlb3VsMjU2LnZpbS5naXQnCgoiIFVzaW5nIGEgdGFnZ2VkIHJlbGVhc2U7IHdpbGRjYXJkIGFsbG93ZWQgKHJlcXVpcmVzIGdpdCAxLjkuMiBvciBhYm92ZSkKUGx1ZyAnZmF0aWgvdmltLWdvJywgeyAndGFnJzogJyonIH0KCiIgVXNpbmcgYSBub24tZGVmYXVsdCBicmFuY2gKUGx1ZyAnbmVvY2xpZGUvY29jLm52aW0nLCB7ICdicmFuY2gnOiAncmVsZWFzZScgfQoKIiBVc2UgJ2Rpcicgb3B0aW9uIHRvIGluc3RhbGwgcGx1Z2luIGluIGEgbm9uLWRlZmF1bHQgZGlyZWN0b3J5ClBsdWcgJ2p1bmVndW5uL2Z6ZicsIHsgJ2Rpcic6ICd+Ly5memYnIH0KCiIgUG9zdC11cGRhdGUgaG9vazogcnVuIGEgc2hlbGwgY29tbWFuZCBhZnRlciBpbnN0YWxsaW5nIG9yIHVwZGF0aW5nIHRoZSBwbHVnaW4KUGx1ZyAnanVuZWd1bm4vZnpmJywgeyAnZGlyJzogJ34vLmZ6ZicsICdkbyc6ICcuL2luc3RhbGwgLS1hbGwnIH0KCiIgUG9zdC11cGRhdGUgaG9vayBjYW4gYmUgYSBsYW1iZGEgZXhwcmVzc2lvbgpQbHVnICdqdW5lZ3Vubi9memYnLCB7ICdkbyc6IHsgLT4gZnpmI2luc3RhbGwoKSB9IH0KCiIgSWYgdGhlIHZpbSBwbHVnaW4gaXMgaW4gYSBzdWJkaXJlY3RvcnksIHVzZSAncnRwJyBvcHRpb24gdG8gc3BlY2lmeSBpdHMgcGF0aApQbHVnICduc2YvZ29jb2RlJywgeyAncnRwJzogJ3ZpbScgfQoKIiBPbi1kZW1hbmQgbG9hZGluZzogbG9hZGVkIHdoZW4gdGhlIHNwZWNpZmllZCBjb21tYW5kIGlzIGV4ZWN1dGVkClBsdWcgJ3ByZXNlcnZpbS9uZXJkdHJlZScsIHsgJ29uJzogJ05FUkRUcmVlVG9nZ2xlJyB9CgoiIE9uLWRlbWFuZCBsb2FkaW5nOiBsb2FkZWQgd2hlbiBhIGZpbGUgd2l0aCBhIHNwZWNpZmljIGZpbGUgdHlwZSBpcyBvcGVuZWQKUGx1ZyAndHBvcGUvdmltLWZpcmVwbGFjZScsIHsgJ2Zvcic6ICdjbG9qdXJlJyB9CgoiIFVubWFuYWdlZCBwbHVnaW4gKG1hbnVhbGx5IGluc3RhbGxlZCBhbmQgdXBkYXRlZCkKUGx1ZyAnfi9teS1wcm90b3R5cGUtcGx1Z2luJwoKIiBJbml0aWFsaXplIHBsdWdpbiBzeXN0ZW0KIiAtIEF1dG9tYXRpY2FsbHkgZXhlY3V0ZXMgYGZpbGV0eXBlIHBsdWdpbiBpbmRlbnQgb25gIGFuZCBgc3ludGF4IGVuYWJsZWAuCmNhbGwgcGx1ZyNlbmQoKQoiIFlvdSBjYW4gcmV2ZXJ0IHRoZSBzZXR0aW5ncyBhZnRlciB0aGUgY2FsbCBsaWtlIHNvOgoiICAgZmlsZXR5cGUgaW5kZW50IG9mZiAgICIgRGlzYWJsZSBmaWxlLXR5cGUtc3BlY2lmaWMgaW5kZW50YXRpb24KIiAgIHN5bnRheCBvZmYgICAgICAgICAgICAiIERpc2FibGUgc3ludGF4IGhpZ2hsaWdodGluZwo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">Ly8g0L3QsNC30LLQsNC90LjQtSDRiNGA0LjRhNGC0LAo0YfRgtC+0LHRiyDQvdC1INC30LDQv9GD0YLQsNGC0YzRgdGPINC70YPRh9GI0LUg0YPQutCw0LfQsNGC0Ywg0L3QsNC30LLQsNC90LjQtSDQv9Cw0L/QutC4INGB0L4g0YjRgNC40YTRgtC+0LwpCg==</text>
+      </register>
+      <register name="7" type="LINE_WISE">
+        <text encoding="base64">Ly8g0LDQtNGA0LXRgSDRiNGA0LjRhNGC0LAg0Lgg0YLQuNC/Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">V2VsY29tZSB0byB5b3VyIG5ldyBhcHAuCg==</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">LnZhbGlkLm1vZGlmaWVkOm5vdChbdHlwZT1jaGVja2JveF0pIHsKICAgIG91dGxpbmU6IDFweCBzb2xpZCAjMjZiMDUwOwp9CgouaW52YWxpZCB7CiAgICBvdXRsaW5lOiAxcHggc29saWQgcmVkOwp9CgoudmFsaWRhdGlvbi1tZXNzYWdlIHsKICAgIGNvbG9yOiByZWQ7Cn0KCiNibGF6b3ItZXJyb3ItdWkgewogICAgYmFja2dyb3VuZDogbGlnaHR5ZWxsb3c7CiAgICBib3R0b206IDA7CiAgICBib3gtc2hhZG93OiAwIC0xcHggMnB4IHJnYmEoMCwgMCwgMCwgMC4yKTsKICAgIGRpc3BsYXk6IG5vbmU7CiAgICBsZWZ0OiAwOwogICAgcGFkZGluZzogMC42cmVtIDEuMjVyZW0gMC43cmVtIDEuMjVyZW07CiAgICBwb3NpdGlvbjogZml4ZWQ7CiAgICB3aWR0aDogMTAwJTsKICAgIHotaW5kZXg6IDEwMDA7Cn0KCiAgICAjYmxhem9yLWVycm9yLXVpIC5kaXNtaXNzIHsKICAgICAgICBjdXJzb3I6IHBvaW50ZXI7CiAgICAgICAgcG9zaXRpb246IGFic29sdXRlOwogICAgICAgIHJpZ2h0OiAwLjc1cmVtOwogICAgICAgIHRvcDogMC41cmVtOwogICAgfQoKLmJsYXpvci1lcnJvci1ib3VuZGFyeSB7CiAgICBiYWNrZ3JvdW5kOiB1cmwoZGF0YTppbWFnZS9zdmcreG1sO2Jhc2U2NCxQSE4yWnlCM2FXUjBhRDBpTlRZaUlHaGxhV2RvZEQwaU5Ea2lJSGh0Ykc1elBTSm9kSFJ3T2k4dmQzZDNMbmN6TG05eVp5OHlNREF3TDNOMlp5SWdlRzFzYm5NNmVHeHBibXM5SW1oMGRIQTZMeTkzZDNjdWR6TXViM0puTHpFNU9Ua3ZlR3hwYm1zaUlHOTJaWEptYkc5M1BTSm9hV1JrWlc0aVBqeGtaV1p6UGp4amJHbHdVR0YwYUNCcFpEMGlZMnhwY0RBaVBqeHlaV04wSUhnOUlqSXpOU0lnZVQwaU5URWlJSGRwWkhSb1BTSTFOaUlnYUdWcFoyaDBQU0kwT1NJdlBqd3ZZMnhwY0ZCaGRHZytQQzlrWldaelBqeG5JR05zYVhBdGNHRjBhRDBpZFhKc0tDTmpiR2x3TUNraUlIUnlZVzV6Wm05eWJUMGlkSEpoYm5Oc1lYUmxLQzB5TXpVZ0xUVXhLU0krUEhCaGRHZ2daRDBpVFRJMk15NDFNRFlnTlRGRE1qWTBMamN4TnlBMU1TQXlOalV1T0RFeklEVXhMalE0TXpjZ01qWTJMall3TmlBMU1pNHlOalU0VERJMk55NHdOVElnTlRJdU56azROeUF5TmpjdU5UTTVJRFV6TGpZeU9ETWdNamt3TGpFNE5TQTVNaTR4T0RNeElESTVNQzQxTkRVZ09USXVOemsxSURJNU1DNDJOVFlnT1RJdU9UazJRekk1TUM0NE56Y2dPVE11TlRFeklESTVNU0E1TkM0d09ERTFJREk1TVNBNU5DNDJOemd5SURJNU1TQTVOeTR3TmpVeElESTRPUzR3TXpnZ09Ua2dNamcyTGpZeE55QTVPVXd5TkRBdU16Z3pJRGs1UXpJek55NDVOak1nT1RrZ01qTTJJRGszTGpBMk5URWdNak0ySURrMExqWTNPRElnTWpNMklEazBMak0zT1RrZ01qTTJMakF6TVNBNU5DNHdPRGcySURJek5pNHdPRGtnT1RNdU9EQTNNa3d5TXpZdU16TTRJRGt6TGpBeE5qSWdNak0yTGpnMU9DQTVNaTR4TXpFMElESTFPUzQwTnpNZ05UTXVOakk1TkNBeU5Ua3VPVFl4SURVeUxqYzVPRFVnTWpZd0xqUXdOeUExTWk0eU5qVTRRekkyTVM0eUlEVXhMalE0TXpjZ01qWXlMakk1TmlBMU1TQXlOak11TlRBMklEVXhXazB5TmpNdU5UZzJJRFkyTGpBeE9ETkRNall3TGpjek55QTJOaTR3TVRneklESTFPUzR6TVRNZ05qY3VNVEkwTlNBeU5Ua3VNekV6SURZNUxqTXpOeUF5TlRrdU16RXpJRFk1TGpZeE1ESWdNalU1TGpNek1pQTJPUzQ0TmpBNElESTFPUzR6TnpFZ056QXVNRGc0TjB3eU5qRXVOemsxSURnMExqQXhOakVnTWpZMUxqTTRJRGcwTGpBeE5qRWdNalkzTGpneU1TQTJPUzQzTkRjMVF6STJOeTQ0TmlBMk9TNDNNekE1SURJMk55NDROemtnTmprdU5UZzNOeUF5TmpjdU9EYzVJRFk1TGpNeE56a2dNalkzTGpnM09TQTJOeTR4TVRneUlESTJOaTQwTkRnZ05qWXVNREU0TXlBeU5qTXVOVGcySURZMkxqQXhPRE5hVFRJMk15NDFOellnT0RZdU1EVTBOME15TmpFdU1EUTVJRGcyTGpBMU5EY2dNalU1TGpjNE5pQTROeTR6TURBMUlESTFPUzQzT0RZZ09Ea3VOemt5TVNBeU5Ua3VOemcySURreUxqSTRNemNnTWpZeExqQTBPU0E1TXk0MU1qazFJREkyTXk0MU56WWdPVE11TlRJNU5TQXlOall1TVRFMklEa3pMalV5T1RVZ01qWTNMak00TnlBNU1pNHlPRE0zSURJMk55NHpPRGNnT0RrdU56a3lNU0F5TmpjdU16ZzNJRGczTGpNd01EVWdNalkyTGpFeE5pQTROaTR3TlRRM0lESTJNeTQxTnpZZ09EWXVNRFUwTjFvaUlHWnBiR3c5SWlOR1JrVTFNREFpSUdacGJHd3RjblZzWlQwaVpYWmxibTlrWkNJdlBqd3ZaejQ4TDNOMlp6ND0pIG5vLXJlcGVhdCAxcmVtLzEuOHJlbSwgI2IzMjEyMTsKICAgIHBhZGRpbmc6IDFyZW0gMXJlbSAxcmVtIDMuN3JlbTsKICAgIGNvbG9yOiB3aGl0ZTsKfQoKICAgIC5ibGF6b3ItZXJyb3ItYm91bmRhcnk6OmFmdGVyIHsKICAgICAgICBjb250ZW50OiAiQW4gZXJyb3IgaGFzIG9jY3VycmVkLiIKICAgIH0KCi5sb2FkaW5nLXByb2dyZXNzIHsKICAgIHBvc2l0aW9uOiByZWxhdGl2ZTsKICAgIGRpc3BsYXk6IGJsb2NrOwogICAgd2lkdGg6IDhyZW07CiAgICBoZWlnaHQ6IDhyZW07CiAgICBtYXJnaW46IDIwdmggYXV0byAxcmVtIGF1dG87Cn0KCiAgICAubG9hZGluZy1wcm9ncmVzcyBjaXJjbGUgewogICAgICAgIGZpbGw6IG5vbmU7CiAgICAgICAgc3Ryb2tlOiAjZTBlMGUwOwogICAgICAgIHN0cm9rZS13aWR0aDogMC42cmVtOwogICAgICAgIHRyYW5zZm9ybS1vcmlnaW46IDUwJSA1MCU7CiAgICAgICAgdHJhbnNmb3JtOiByb3RhdGUoLTkwZGVnKTsKICAgIH0KCiAgICAgICAgLmxvYWRpbmctcHJvZ3Jlc3MgY2lyY2xlOmxhc3QtY2hpbGQgewogICAgICAgICAgICBzdHJva2U6ICMxYjZlYzI7CiAgICAgICAgICAgIHN0cm9rZS1kYXNoYXJyYXk6IGNhbGMoMy4xNDEgKiB2YXIoLS1ibGF6b3ItbG9hZC1wZXJjZW50YWdlLCAwJSkgKiAwLjgpLCA1MDAlOwogICAgICAgICAgICB0cmFuc2l0aW9uOiBzdHJva2UtZGFzaGFycmF5IDAuMDVzIGVhc2UtaW4tb3V0OwogICAgICAgIH0KCi5sb2FkaW5nLXByb2dyZXNzLXRleHQgewogICAgcG9zaXRpb246IGFic29sdXRlOwogICAgdGV4dC1hbGlnbjogY2VudGVyOwogICAgZm9udC13ZWlnaHQ6IGJvbGQ7CiAgICBpbnNldDogY2FsYygyMHZoICsgMy4yNXJlbSkgMCBhdXRvIDAuMnJlbTsKfQoKICAgIC5sb2FkaW5nLXByb2dyZXNzLXRleHQ6YWZ0ZXIgewogICAgICAgIGNvbnRlbnQ6IHZhcigtLWJsYXpvci1sb2FkLXBlcmNlbnRhZ2UtdGV4dCwgIkxvYWRpbmciKTsKICAgIH0KCmNvZGUgewogICAgY29sb3I6ICNjMDJkNzY7Cn0K</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">d2E=</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

@@ -1,0 +1,74 @@
+﻿// Type: Program 
+// Assembly: ConsoleApp2, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+// MVID: 9EE2B576-8769-4D11-80D1-208A2ED3DBA7
+// Location: /home/hudric/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.dll
+// Sequence point data and variable names from /home/hudric/RiderProjects/ConsoleApp2/ConsoleApp2/bin/Debug/net8.0/ConsoleApp2.pdb
+
+.class private auto ansi beforefieldinit
+  Program
+    extends [System.Runtime]System.Object
+{
+  .custom instance void [System.Runtime]System.Runtime.CompilerServices.CompilerGeneratedAttribute::.ctor()
+    = (01 00 00 00 )
+
+  .method private hidebysig static void
+    '<Main>$'(
+      string[] args
+    ) cil managed
+  {
+    .entrypoint
+    .maxstack 2
+    .locals init (
+      [0] int32 i,
+      [1] int32 a,
+      [2] bool V_2
+    )
+
+    // [6 6 - 6 15]
+    IL_0000: ldc.i4.0
+    IL_0001: stloc.0      // i
+
+    IL_0002: br.s         IL_000d
+    // start of loop, entry point: IL_000d
+
+      // [7 1 - 7 2]
+      IL_0004: nop
+
+      // [8 5 - 8 21]
+      IL_0005: ldc.i4.s     20 // 0x14
+      IL_0007: stloc.1      // a
+
+      // [9 1 - 9 2]
+      IL_0008: nop
+
+      // [6 25 - 6 28]
+      IL_0009: ldloc.0      // i
+      IL_000a: ldc.i4.1
+      IL_000b: add
+      IL_000c: stloc.0      // i
+
+      // [6 17 - 6 23]
+      IL_000d: ldloc.0      // i
+      IL_000e: ldc.i4.s     10 // 0x0a
+      IL_0010: clt
+      IL_0012: stloc.2      // V_2
+
+      IL_0013: ldloc.2      // V_2
+      IL_0014: brtrue.s     IL_0004
+    // end of loop
+    IL_0016: ret
+
+  } // end of method Program::'<Main>$'
+
+  .method public hidebysig specialname rtspecialname instance void
+    .ctor() cil managed
+  {
+    .maxstack 8
+
+    IL_0000: ldarg.0      // this
+    IL_0001: call         instance void [System.Runtime]System.Object::.ctor()
+    IL_0006: nop
+    IL_0007: ret
+
+  } // end of method Program::.ctor
+} // end of class Program

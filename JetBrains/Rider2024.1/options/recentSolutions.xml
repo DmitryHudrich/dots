@@ -1,0 +1,151 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/RiderProjects/BlazorApp1/BlazorApp1.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="BlazorApp1 – Counter.razor" projectWorkspaceId="2g0yv4N2ZEjvDG7yKbYFw9g5MAq">
+              <option name="activationTimestamp" value="1714850469306" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.14494.325" />
+              <option name="buildTimestamp" value="1713282000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <frame x="8" y="41" width="1904" height="1031" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1714850028405" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/BlazorApp2/BlazorApp2.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="BlazorApp2 – App.razor" projectWorkspaceId="2g11rsba59Jmckoun7CB6CSt2rg">
+              <option name="activationTimestamp" value="1714853849162" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.14494.325" />
+              <option name="buildTimestamp" value="1713282000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="8" y="41" width="1904" height="1031" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1714850471877" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/BlazorApp3/BlazorApp3.sln">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2g18kQJCuzsLvQk8vbiBA8Iaf9U">
+              <option name="activationTimestamp" value="1714919850709" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.14494.325" />
+              <option name="buildTimestamp" value="1713282000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="7" />
+              </option>
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1714853865710" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/WebApplication1/WebApplication1.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="WebApplication1 – Program.fs" projectWorkspaceId="2g3Rr7ZuFI7ubAKujFfuPe8Nh6y">
+              <option name="activationTimestamp" value="1714924550964" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.14494.325" />
+              <option name="buildTimestamp" value="1713282000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="8" />
+              </option>
+              <frame x="964" y="41" width="948" height="1031" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1714924476066" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ConsoleApp1 – Program.fs" projectWorkspaceId="2g3S1VzY1b8ieG2tnxEEuAolTK2">
+              <option name="activationTimestamp" value="1715263930283" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.14494.325" />
+              <option name="buildTimestamp" value="1713282000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="0" />
+              </option>
+              <frame x="8" y="41" width="1904" height="1031" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1715263867746" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/Bebra/Bebra.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Bebra – Program.fs" projectWorkspaceId="2gEXuGwak4gjxjRtnP4tECJndgJ">
+              <option name="activationTimestamp" value="1715286157572" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.14494.325" />
+              <option name="buildTimestamp" value="1713282000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="8" y="41" width="1904" height="1031" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1715284961110" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/Math/Math.sln">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2gFGxi3W2JrxXzwlemyfh4jbMrS">
+              <option name="activationTimestamp" value="1715288177898" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.14494.325" />
+              <option name="buildTimestamp" value="1713282000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="4" />
+              </option>
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1715286160765" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/AvaloniaUIApp/AvaloniaUIApp.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="AvaloniaUIApp – MainWindow.axaml" projectWorkspaceId="2gHrWc0KGhhJHKd6zdDmxbrbUvt">
+              <option name="activationTimestamp" value="1715521681220" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.14494.325" />
+              <option name="buildTimestamp" value="1713282000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="8" y="41" width="1904" height="1031" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1715365380621" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2.sln">
+          <value>
+            <RecentProjectMetaInfo frameTitle="ConsoleApp2 – Program.cs" projectWorkspaceId="2gyTAurUdN4RaTZiSuUsCBXXttt">
+              <option name="activationTimestamp" value="1717853558369" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-241.14494.325" />
+              <option name="buildTimestamp" value="1713282000000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="5" />
+              </option>
+              <frame x="8" y="7" width="1904" height="1029" extendedState="7" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1717848507565" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/RiderProjects/ConsoleApp2/ConsoleApp2.sln" />
+  </component>
+</application>

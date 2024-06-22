@@ -1,0 +1,25 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/DataGripProjects/bebra">
+          <value>
+            <RecentProjectMetaInfo frameTitle="bebra – Users" opened="true" projectWorkspaceId="2i9geVsPdYrAz7iP7wqnUIlLzJQ">
+              <option name="activationTimestamp" value="1718980468091" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="DB-241.17890.24" />
+              <option name="buildTimestamp" value="1717774020000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="6" />
+              </option>
+              <frame x="8" y="42" width="1904" height="1030" />
+              <option name="productionCode" value="DB" />
+              <option name="projectOpenTimestamp" value="1718908305176" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/DataGripProjects/bebra" />
+  </component>
+</application>

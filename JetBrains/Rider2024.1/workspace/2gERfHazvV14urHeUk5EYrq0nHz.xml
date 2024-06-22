@@ -1,0 +1,236 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="BlazorApp4" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="jl2c03hq1uwl">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlazorApp4/Program.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <marker date="1715260847596" expanded="true" signature="6:119" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/ClassLibrary1/Class1.vb">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="22">
+              <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+              <folding>
+                <marker date="1715263183889" expanded="true" signature="24:25" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlazorApp4/Pages/Home.razor">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="22">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlazorApp4/App.razor">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C#": {
+      "usageCount": 1,
+      "lastUsed": 1715260869779
+    },
+    "Visual Basic": {
+      "usageCount": 1,
+      "lastUsed": 1715263170796
+    },
+    "Blazor": {
+      "usageCount": 2,
+      "lastUsed": 1715260964384
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ClassLibrary1/Class1.vb" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.BlazorApp4/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Blazor">
+      <summary usageCount="2" lastUsage="1715260964384" />
+    </language>
+    <language id="C#">
+      <summary usageCount="1" lastUsage="1715260869782" />
+    </language>
+    <language id="VB">
+      <summary usageCount="1" lastUsage="1715263170796" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BlazorApp4" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BlazorApp4" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BlazorApp4" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BlazorApp4" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Launch Settings Profile.BlazorApp4: http" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2310000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31486344" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2613967" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.2613967" />
+      <window_info anchor="bottom" id="NuGet" order="4" weight="0.2613967" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.2613967" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.2613967" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" auto_hide="true" x="764" y="112" width="869" height="931" id="Monitoring" internal_type="SLIDING" order="4" type="FLOATING" weight="0.33009452" />
+      <unified_weights bottom="0.2613967" left="0.31486344" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Monitoring</value>
+      <value>Run</value>
+      <value>AIAssistant</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1838" height="237" key="GridCell.Tab.0.bottom" timestamp="1715263257642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1715263257642" />
+    <state width="1838" height="237" key="GridCell.Tab.0.center" timestamp="1715263257642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="237" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1715263257642" />
+    <state width="1838" height="237" key="GridCell.Tab.0.left" timestamp="1715263257642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="237" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1715263257642" />
+    <state width="1838" height="237" key="GridCell.Tab.0.right" timestamp="1715263257642">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="237" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1715263257642" />
+    <state x="510" y="231" key="Rider.NewProjectDialog.Size" timestamp="1715263256555">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="510" y="231" key="Rider.NewProjectDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1715263256555" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BlazorApp4/App.razor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="21" selection-start-line="2" selection-start-column="21" selection-end-line="2" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlazorApp4/Pages/Home.razor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlazorApp4/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <marker date="1715260847596" expanded="true" signature="6:119" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ClassLibrary1/Class1.vb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="4" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="4" />
+          <folding>
+            <marker date="1715263183889" expanded="true" signature="24:25" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,50 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="experimentalSingleStripe" value="true" />
+  </component>
+  <component name="PropertyService">{
+  &quot;keyToString&quot;: {
+    &quot;DG.SingleStripe.Customization2&quot;: &quot;true&quot;,
+    &quot;DG.SingleStripe.LastLocale&quot;: &quot;en&quot;,
+    &quot;LAST_CALCULATED_COLOR_INDEX_KEY&quot;: &quot;6&quot;,
+    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators&quot;: &quot;DB-241.17890.24&quot;,
+    &quot;LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors&quot;: &quot;DB-241.17890.24&quot;,
+    &quot;RunOnceActivity.llm.installer.activate.toolwindow&quot;: &quot;true&quot;,
+    &quot;ask.about.ctrl.y.shortcut.v2&quot;: &quot;true&quot;,
+    &quot;com.intellij.database.actions.DbDeleteProvider$2.proportion&quot;: &quot;0.5&quot;,
+    &quot;evlsprt3.241&quot;: &quot;7&quot;,
+    &quot;experimental.ui.used.version&quot;: &quot;241.17890.24&quot;,
+    &quot;fileTypeChangedCounter&quot;: &quot;1&quot;,
+    &quot;fontSizeToResetConsole&quot;: &quot;12.0&quot;,
+    &quot;fontSizeToResetEditor&quot;: &quot;12.0&quot;,
+    &quot;got.it.tooltip.database.schema.control.got.it&quot;: &quot;1&quot;,
+    &quot;gotit.previous.run&quot;: &quot;DB-241.17890.24&quot;,
+    &quot;ide.memory.adjusted&quot;: &quot;true&quot;,
+    &quot;llm.installer.last.toolwindow.state&quot;: &quot;LLM_INSTALLER&quot;,
+    &quot;migrated.non.roamable.values.from.general.settings&quot;: &quot;true&quot;,
+    &quot;previousColorScheme&quot;: &quot;_@user_Dark&quot;,
+    &quot;registry.to.advanced.settings.migration.build&quot;: &quot;DB-241.17890.24&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;fileTypeDetectors&quot;: [
+      &quot;com.intellij.ide.scratch.ScratchFileServiceImpl$Detector&quot;,
+      &quot;com.intellij.database.vfs.DbStorageFileType$Detector&quot;,
+      &quot;org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector&quot;
+    ]
+  }
+}</component>
+  <component name="ShownTips"><![CDATA[{
+  "shownTips": {
+    "GoToDeclaration": 1718980440555,
+    "FindReplaceToggle": 1718980448651,
+    "FindInPath": 1718980447377
+  },
+  "proposedTips": {
+    "GoToDeclaration": 1718980440280
+  },
+  "tipsOrderSeed": 1718980440241
+}]]></component>
+</application>

@@ -1,0 +1,17 @@
+<application>
+  <component name="TrustedSolutionStore">
+    <option name="trustedLocations">
+      <set>
+        <option value="$USER_HOME$/AvaloniaUIApp/.idea/.idea.AvaloniaUIApp" />
+        <option value="$USER_HOME$/RiderProjects/Bebra/.idea/.idea.Bebra" />
+        <option value="$USER_HOME$/RiderProjects/BlazorApp1/.idea/.idea.BlazorApp1" />
+        <option value="$USER_HOME$/RiderProjects/BlazorApp2/.idea/.idea.BlazorApp2" />
+        <option value="$USER_HOME$/RiderProjects/BlazorApp3/.idea/.idea.BlazorApp3" />
+        <option value="$USER_HOME$/RiderProjects/ConsoleApp1/.idea/.idea.ConsoleApp1" />
+        <option value="$USER_HOME$/RiderProjects/ConsoleApp2/.idea/.idea.ConsoleApp2" />
+        <option value="$USER_HOME$/RiderProjects/Math/.idea/.idea.Math" />
+        <option value="$USER_HOME$/RiderProjects/WebApplication1/.idea/.idea.WebApplication1" />
+      </set>
+    </option>
+  </component>
+</application>

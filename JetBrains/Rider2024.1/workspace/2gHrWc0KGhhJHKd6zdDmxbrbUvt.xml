@@ -1,0 +1,210 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="AvaloniaUIApp" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2gfh1d4ta6hhb">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AvaloniaUIApp.Android/Activities.fs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="81">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <marker date="1715365287972" expanded="false" signature="33:153" ph="..." />
+                <marker date="1715365287972" expanded="true" signature="430:620" ph=") = ..." />
+                <marker date="1715365287972" expanded="true" signature="518:620" ph=" = ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/AvaloniaUIApp/Views/MainView.axaml">
+          <provider editor-type-id="XamlSplitTextEditor" selected="true">
+            <state>
+              <code-editor relative-caret-position="297">
+                <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+                <folding>
+                  <marker date="1715365288112" expanded="true" signature="12:875" ph="..." />
+                  <marker date="1715365288112" expanded="true" signature="528:762" ph="..." />
+                  <marker date="1715365288112" expanded="true" signature="534:714" ph="&lt;!--...--&gt;" />
+                </folding>
+              </code-editor>
+              <split-editor orientation="HORIZONTAL" layout="SPLIT" codeAndPreviewSwapped="false" SplitterProportion="0.6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/AvaloniaUIApp/Views/MainWindow.axaml">
+          <provider editor-type-id="XamlSplitTextEditor" selected="true">
+            <state>
+              <code-editor relative-caret-position="297">
+                <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+                <folding>
+                  <marker date="1715365288115" expanded="true" signature="7:585" ph="..." />
+                </folding>
+              </code-editor>
+              <split-editor orientation="VERTICAL" layout="SPLIT" codeAndPreviewSwapped="false" SplitterProportion="0.6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Xaml": {
+      "usageCount": 2,
+      "lastUsed": 1715365444183
+    },
+    "F#": {
+      "usageCount": 1,
+      "lastUsed": 1715365416366
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.AvaloniaUIApp/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="F#">
+      <summary usageCount="1" lastUsage="1715365416370" />
+    </language>
+    <language id="Xaml">
+      <summary usageCount="2" lastUsage="1715365444183" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AvaloniaUIApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AvaloniaUIApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AvaloniaUIApp" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AvaloniaUIApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AvaloniaUIApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="AvaloniaUIApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AvaloniaUIApp" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Views" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="MainWindow.axaml" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="691000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.31486344" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" visible="true" weight="0.30213386" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2613967" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.2613967" />
+      <window_info anchor="bottom" id="NuGet" order="4" weight="0.2613967" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.2613967" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.2613967" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="IL Viewer" order="4" weight="0.33009452" />
+      <window_info anchor="right" id="Monitoring" order="4" weight="0.33009452" />
+      <unified_weights bottom="0.30213386" left="0.31486344" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Problems View</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/AvaloniaUIApp.Android/Activities.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="81">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1715365287972" expanded="false" signature="33:153" ph="..." />
+            <marker date="1715365287972" expanded="true" signature="430:620" ph=") = ..." />
+            <marker date="1715365287972" expanded="true" signature="518:620" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvaloniaUIApp/Views/MainView.axaml">
+      <provider selected="true" editor-type-id="XamlSplitTextEditor">
+        <state>
+          <code-editor relative-caret-position="297">
+            <caret line="11" column="24" lean-forward="true" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+            <folding>
+              <marker date="1715365288112" expanded="true" signature="12:875" ph="..." />
+              <marker date="1715365288112" expanded="true" signature="528:762" ph="..." />
+              <marker date="1715365288112" expanded="true" signature="534:714" ph="&lt;!--...--&gt;" />
+            </folding>
+          </code-editor>
+          <split-editor orientation="HORIZONTAL" layout="SPLIT" codeAndPreviewSwapped="false" SplitterProportion="0.6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/AvaloniaUIApp/Views/MainWindow.axaml">
+      <provider selected="true" editor-type-id="XamlSplitTextEditor">
+        <state>
+          <code-editor relative-caret-position="297">
+            <caret line="11" column="9" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
+            <folding>
+              <marker date="1715365288115" expanded="true" signature="7:585" ph="..." />
+            </folding>
+          </code-editor>
+          <split-editor orientation="VERTICAL" layout="SPLIT" codeAndPreviewSwapped="false" SplitterProportion="0.6" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

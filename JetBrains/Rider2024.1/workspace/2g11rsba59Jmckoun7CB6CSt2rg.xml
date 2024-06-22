@@ -1,0 +1,289 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="BlazorApp2" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="xuwfad9g0zo4">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlazorApp2/Pages/Home.razor">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="5" selection-start-line="5" selection-end-line="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlazorApp2/wwwroot/index.html">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/BlazorApp2/App.razor">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="22">
+              <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlazorApp2/Program.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <folding>
+                <marker date="1714850475123" expanded="true" signature="6:119" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BlazorApp2/_Imports.razor">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <marker date="1714850682716" expanded="true" signature="7:344" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/327f875fd92c358a2c6b3c48cc81b288070ecb997371cd17419f80a482a617/LayoutComponentBase.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="462">
+              <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+              <folding>
+                <marker date="1714850496556" expanded="false" signature="0:136" ph="// Licensed to the .NET Foundation under one or more agreements...." />
+                <marker date="1714850496556" expanded="false" signature="144:232" ph="..." />
+                <marker date="1714850496556" expanded="true" signature="278:510" ph="/// Optional base class for components that represent a layout. ... " />
+                <marker date="1714850496556" expanded="true" signature="568:1231" ph="{...}" />
+                <marker date="1714850496556" expanded="true" signature="635:726" ph="/// Gets the content to be rendered inside the layout. ... " />
+                <marker date="1714850496556" expanded="true" signature="817:1055" ph="// Derived instances of LayoutComponentBase do not appear in any statically analyzable ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C#": {
+      "usageCount": 2,
+      "lastUsed": 1714850553875
+    },
+    "Blazor": {
+      "usageCount": 4,
+      "lastUsed": 1714850601405
+    },
+    "HTML": {
+      "usageCount": 1,
+      "lastUsed": 1714850565910
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/BlazorApp2/Pages/Home.razor" />
+      <option value="$PROJECT_DIR$/BlazorApp2/Layout/MainLayout.razor" />
+      <option value="$PROJECT_DIR$/BlazorApp2/_Imports.razor" />
+      <option value="$PROJECT_DIR$/BlazorApp2/App.razor" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.BlazorApp2/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Blazor">
+      <summary usageCount="4" lastUsage="1714850601405" />
+    </language>
+    <language id="C#">
+      <summary usageCount="2" lastUsage="1714850553875" />
+    </language>
+    <language id="HTML">
+      <summary usageCount="1" lastUsage="1714850565910" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BlazorApp2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BlazorApp2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BlazorApp2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BlazorApp2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="BlazorApp2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App.razor" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Launch Settings Profile.BlazorApp2: http" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2870000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.21297269" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2613967" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.2613967" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.2613967" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Monitoring" order="4" weight="0.33009452" />
+      <unified_weights bottom="0.2613967" left="0.21297269" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>Monitoring</value>
+      <value>Run</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1838" height="237" key="GridCell.Tab.0.bottom" timestamp="1714853865121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="237" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1714853865121" />
+    <state width="1838" height="237" key="GridCell.Tab.0.center" timestamp="1714853865121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="237" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1714853865121" />
+    <state width="1838" height="237" key="GridCell.Tab.0.left" timestamp="1714853865121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="237" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1714853865121" />
+    <state width="1838" height="237" key="GridCell.Tab.0.right" timestamp="1714853865121">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="237" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1714853865121" />
+    <state x="510" y="231" key="Rider.NewProjectDialog.Size" timestamp="1714853863571">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="510" y="231" key="Rider.NewProjectDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1714853863571" />
+    <state x="469" y="206" key="SettingsEditor" timestamp="1714850668103">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="206" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1714850668103" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/327f875fd92c358a2c6b3c48cc81b288070ecb997371cd17419f80a482a617/LayoutComponentBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="462">
+          <caret line="21" column="27" selection-start-line="21" selection-start-column="27" selection-end-line="21" selection-end-column="27" />
+          <folding>
+            <marker date="1714850496556" expanded="false" signature="0:136" ph="// Licensed to the .NET Foundation under one or more agreements...." />
+            <marker date="1714850496556" expanded="false" signature="144:232" ph="..." />
+            <marker date="1714850496556" expanded="true" signature="278:510" ph="/// Optional base class for components that represent a layout. ... " />
+            <marker date="1714850496556" expanded="true" signature="568:1231" ph="{...}" />
+            <marker date="1714850496556" expanded="true" signature="635:726" ph="/// Gets the content to be rendered inside the layout. ... " />
+            <marker date="1714850496556" expanded="true" signature="817:1055" ph="// Derived instances of LayoutComponentBase do not appear in any statically analyzable ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlazorApp2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1714850475123" expanded="true" signature="6:119" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlazorApp2/wwwroot/index.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlazorApp2/Layout/MainLayout.razor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="4" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlazorApp2/_Imports.razor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1714850682716" expanded="true" signature="7:344" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlazorApp2/Pages/Home.razor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BlazorApp2/App.razor">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="22">
+          <caret line="1" column="30" selection-start-line="1" selection-start-column="30" selection-end-line="1" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

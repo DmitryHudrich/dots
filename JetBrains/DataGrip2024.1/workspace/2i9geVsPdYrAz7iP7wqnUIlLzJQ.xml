@@ -1,0 +1,223 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="bebra" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@172.21.0.2: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@172.21.0.2: DSN" type="27e358d6:DataSourceNode" />
+        <item name="HakoDb: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@172.21.0.2: DSN" type="27e358d6:DataSourceNode" />
+        <item name="HakoDb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@172.21.0.2: DSN" type="27e358d6:DataSourceNode" />
+        <item name="HakoDb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 2 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@172.21.0.2: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="@172.21.0.2: DSN" type="27e358d6:DataSourceNode" />
+        <item name="postgres: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="886m7t4a1ang" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="das://d4185d3a-134b-49c6-a2cb-3975572c1c39/database/HakoDb/schema/public/table/Users">
+          <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider" selected="true">
+            <state lastOpenedTimestamp="1718980459761" presentationMode="TABLE" projectRestartId="2930097a-2b7f-4de8-8736-1a176218de72" pageSize="10">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "UML": {
+      "usageCount": 1,
+      "lastUsed": 1718908810870
+    },
+    "Database Element": {
+      "usageCount": 2,
+      "lastUsed": 1718980461903
+    },
+    "SQL": {
+      "usageCount": 1,
+      "lastUsed": 1718908692864
+    }
+  }
+}]]></component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="1" lastUsage="1718908692865" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="bebra" type="e2ad676d:AttachableProjectViewPane$1$1" />
+              <item name="dir{file:///home/hudric/DataGripProjects/bebra}" type="377199ff:AttachableProjectViewPane$1$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="@172.21.0.2: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="@172.21.0.2: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Database" order="0" visible="true" weight="0.25026262" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961166" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.32961166" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.33009452" />
+      <window_info anchor="right" id="Hierarchy" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="AIAssistant" order="2" weight="0.33009452" />
+      <window_info anchor="right" id="Structure" order="3" side_tool="true" weight="0.33009452" />
+      <window_info anchor="right" id="Notifications" order="4" side_tool="true" weight="0.33009452" />
+      <unified_weights bottom="0.32961166" left="0.25026262" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Database</value>
+      <value>Hierarchy</value>
+      <value>Run</value>
+      <value>Notifications</value>
+      <value>Structure</value>
+      <value>Project</value>
+      <value>Services</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1718908486823">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="231" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1718908486823" />
+    <state width="1305" height="297" key="GridCell.Tab.0.bottom" timestamp="1718908599786">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1305" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1718908599786" />
+    <state width="1305" height="297" key="GridCell.Tab.0.center" timestamp="1718908599786">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1305" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1718908599786" />
+    <state width="1305" height="297" key="GridCell.Tab.0.left" timestamp="1718908599784">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1305" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1718908599784" />
+    <state width="1305" height="297" key="GridCell.Tab.0.right" timestamp="1718908599786">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1305" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1718908599786" />
+    <state width="284" height="564" key="HiddenNamespacesPopup" timestamp="1718908553910">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="284" height="564" key="HiddenNamespacesPopup/0.0.1920.1080@0.0.1920.1080" timestamp="1718908553910" />
+    <state x="779" y="387" key="com.intellij.database.actions.DbDeleteProvider$2" timestamp="1718908795871">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="779" y="387" key="com.intellij.database.actions.DbDeleteProvider$2/0.0.1920.1080@0.0.1920.1080" timestamp="1718908795871" />
+    <state x="698" y="378" key="com.intellij.database.dataSource.ui.DatabaseTargetChooser.ChooseTargetDialog" timestamp="1718908730484">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="378" key="com.intellij.database.dataSource.ui.DatabaseTargetChooser.ChooseTargetDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1718908730484" />
+    <state x="862" y="464" key="data.grid.dml.preview.dialog" timestamp="1718908939600">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="862" y="464" key="data.grid.dml.preview.dialog/0.0.1920.1080@0.0.1920.1080" timestamp="1718908939600" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="das://d4185d3a-134b-49c6-a2cb-3975572c1c39/database/HakoDb/schema/public/table/Users.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="uml://DATABASE/d4185d3a-134b-49c6-a2cb-3975572c1c39.DATABASE:HakoDb">
+      <provider selected="true" editor-type-id="UmlEditorProvider" />
+    </entry>
+    <entry file="das://d4185d3a-134b-49c6-a2cb-3975572c1c39/database/HakoDb/schema/public/table/Users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1718980459761" presentationMode="TABLE" projectRestartId="2930097a-2b7f-4de8-8736-1a176218de72" pageSize="10">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,424 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ConsoleApp2" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2gfh1d4ta6hhb" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/ConsoleApp2/Program.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="176">
+              <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+              <folding>
+                <marker date="1717845090758" expanded="true" signature="6:117" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="mock:///Analysis #1">
+          <provider editor-type-id="remote-document-window-provider" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C#": {
+      "usageCount": 8,
+      "lastUsed": 1717848506259
+    },
+    "AUTO_DETECTED": {
+      "usageCount": 8,
+      "lastUsed": 1717848530396
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ConsoleApp2/Program.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.ConsoleApp2/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="8" lastUsage="1717848506267" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp2" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ConsoleApp2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp2" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info anchor="bottom" id="Build" order="4" weight="0.32312924" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="1" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Debug">
+          <value>
+            <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.32993197" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="IL Viewer">
+          <value>
+            <window_info anchor="right" x="606" y="36" width="443" height="941" id="IL Viewer" order="4" weight="0.32641804" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Monitoring">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Monitoring" order="4" weight="0.32641804" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="NuGet">
+          <value>
+            <window_info anchor="bottom" id="NuGet" order="4" weight="0.32094595" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" weight="0.2234664" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07838541" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.3227848" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="4" weight="0.32094595" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info anchor="bottom" id="Terminal" order="3" weight="0.32312924" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" />
+          </value>
+        </entry>
+        <entry key="dotMemory Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.32094595" />
+          </value>
+        </entry>
+        <entry key="dotTrace Profiler">
+          <value>
+            <window_info active="true" anchor="bottom" id="dotTrace Profiler" order="4" visible="true" weight="0.32094595" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.ConsoleApp2" />
+    </history>
+  </component>
+  <component name="RunToolbarDotProfilerSettings">
+    <slotIdToConfigurationId>
+      <entry key="ConsoleApp2" value="3a8030e0-5b0f-4df1-a30a-d3e471630ee4" />
+    </slotIdToConfigurationId>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21100000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.07838541" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.2234664" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.32312924" />
+      <window_info active="true" anchor="bottom" id="dotTrace Profiler" order="4" visible="true" weight="0.32094595" />
+      <window_info active="true" anchor="bottom" id="Run" order="4" visible="true" weight="0.3227848" />
+      <window_info anchor="bottom" id="NuGet" order="4" weight="0.32094595" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.32094595" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32312924" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.32094595" />
+      <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.32993197" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" x="606" y="36" width="443" height="941" id="IL Viewer" order="4" weight="0.32641804" />
+      <window_info anchor="right" content_ui="combo" id="Monitoring" order="4" weight="0.32641804" />
+      <unified_weights bottom="0.32094595" left="0.07838541" right="0.32641804" />
+    </layoutV2>
+    <recentWindows>
+      <value>dotTrace Profiler</value>
+      <value>NuGet</value>
+      <value>dotMemory Profiler</value>
+      <value>Services</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="232" width="974" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1717845750371">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="232" width="974" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1717845750371" />
+    <state x="871" y="287" width="612" height="539" key="#org.jetbrains.debugger.memory.view.InstancesWindow" timestamp="1717845905688">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="871" y="287" width="612" height="539" key="#org.jetbrains.debugger.memory.view.InstancesWindow/0.0.1920.1080@0.0.1920.1080" timestamp="1717845905688" />
+    <state x="791" y="305" key="#xdebugger.XInspectDialog" timestamp="1717845903613">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="791" y="305" key="#xdebugger.XInspectDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1717845903613" />
+    <state width="272" height="191" key="DebuggerActiveHint" timestamp="1717801224756">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="272" height="191" key="DebuggerActiveHint/0.0.1920.1080@0.0.1920.1080" timestamp="1717801224756" />
+    <state width="1838" height="307" key="GridCell.Tab.0.bottom" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.0.center" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.0.left" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.0.right" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.1.bottom" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.1.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.1.center" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.1.center/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.1.left" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.1.left/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.1.right" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.1.right/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.2.bottom" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.2.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.2.center" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.2.center/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.2.left" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.2.left/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.2.right" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.2.right/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.3.bottom" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.3.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.3.center" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.3.center/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.3.left" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.3.left/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.3.right" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.3.right/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.4.bottom" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.4.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.4.center" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.4.center/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.4.left" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.4.left/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.4.right" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.4.right/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.5.bottom" timestamp="1717846008656">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.5.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008656" />
+    <state width="1838" height="307" key="GridCell.Tab.5.center" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.5.center/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.5.left" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.5.left/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state width="1838" height="307" key="GridCell.Tab.5.right" timestamp="1717846008655">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1838" height="307" key="GridCell.Tab.5.right/0.0.1920.1080@0.0.1920.1080" timestamp="1717846008655" />
+    <state x="469" y="171" key="SettingsEditor" timestamp="1717845699849">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="171" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1717845699849" />
+    <state x="108" y="143" width="1704" height="829" key="debugger-collection-visualizer" timestamp="1717801227078">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="108" y="143" width="1704" height="829" key="debugger-collection-visualizer/0.0.1920.1080@0.0.1920.1080" timestamp="1717801227078" />
+    <state x="623" y="226" width="686" height="702" key="search.everywhere.popup" timestamp="1716672099283">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="226" width="686" height="702" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1716672099283" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ConsoleApp2/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" column="19" lean-forward="true" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+          <folding>
+            <marker date="1717845090758" expanded="true" signature="6:117" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

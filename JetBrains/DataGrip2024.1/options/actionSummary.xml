@@ -1,0 +1,115 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Back">
+      <i c="1" l="1718908695903" />
+    </e>
+    <e n="Console.TableResult.AddRow">
+      <i c="1" l="1718908945581" />
+    </e>
+    <e n="Console.TableResult.ChangePageSize">
+      <i c="1" l="1718908705659" />
+    </e>
+    <e n="Console.TableResult.ChooseExtractor">
+      <i c="2" l="1718908589834" />
+    </e>
+    <e n="Console.TableResult.DeleteRows">
+      <i c="1" l="1718908925917" />
+    </e>
+    <e n="Console.TableResult.Options">
+      <i c="1" l="1718908687971" />
+    </e>
+    <e n="Console.TableResult.PreviewDml">
+      <i c="1" l="1718908935989" />
+    </e>
+    <e n="Console.TableResult.ShowChart">
+      <i c="2" l="1718908578426" />
+    </e>
+    <e n="Console.TableResult.Submit">
+      <i c="1" l="1718908951165" />
+    </e>
+    <e n="Console.Transaction.TxSettings">
+      <i c="3" l="1718909148543" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="1" l="1718908410072" />
+    </e>
+    <e n="DatabaseView.AddSchemasAction">
+      <i c="1" l="1718908551932" />
+    </e>
+    <e n="DatabaseView.DropAction">
+      <i c="1" l="1718908782828" />
+    </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="1" l="1718908436970" />
+    </e>
+    <e n="DatabaseView.Refresh">
+      <i c="2" l="1718908500123" />
+    </e>
+    <e n="DatabaseView.ShowDiff">
+      <i c="1" l="1718908728848" />
+    </e>
+    <e n="DatabaseViewOptions">
+      <i c="1" l="1718908653507" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="8" l="1718980472421" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="1" l="1718908391259" />
+    </e>
+    <e n="EditorPaste">
+      <i c="2" l="1718908480738" />
+    </e>
+    <e n="Jdbc.OpenEditor.Grid.DDL">
+      <i c="1" l="1718908692715" />
+    </e>
+    <e n="QuickJavaDoc">
+      <i c="1" l="1718908775452" />
+    </e>
+    <e n="ShowUmlDiagram">
+      <i c="1" l="1718908810101" />
+    </e>
+    <e n="ShowUmlDiagramPopup">
+      <i c="1" l="1718980467296" />
+    </e>
+    <e n="WelcomeScreen.CreateDirectoryProject">
+      <i c="1" l="1718908299154" />
+    </e>
+    <e n="com.intellij.database.actions.DataSourceQuickFixAction$MyFixAction">
+      <i c="1" l="1718908423242" />
+    </e>
+    <e n="com.intellij.database.dataSource.DataSourceScopeEditor$RefreshAction">
+      <i c="1" l="1718908513073" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
+      <i c="1" l="1718908318913" />
+    </e>
+    <e n="com.intellij.database.run.actions.ChangePageSizeAction">
+      <i c="1" l="1718908706783" />
+    </e>
+    <e n="com.intellij.database.run.actions.ChooseExtractorAction$SelectExtractorAction">
+      <i c="2" l="1718908591063" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="2" l="1718908831876" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1718980476255" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="2" l="1718908765132" />
+    </e>
+    <e n="com.intellij.toolWindow.StripeActionGroup$MyButtonAction">
+      <i c="6" l="1718908602354" />
+    </e>
+    <e n="com.intellij.toolWindow.StripeActionGroup$MyMoreAction">
+      <i c="9" l="1718908753619" />
+    </e>
+    <e n="com.intellij.toolWindow.StripeActionGroup$MyMoreAction$getChildren$children$1$1">
+      <i c="7" l="1718908740198" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="5" l="1718908752228" />
+    </e>
+  </component>
+</application>
