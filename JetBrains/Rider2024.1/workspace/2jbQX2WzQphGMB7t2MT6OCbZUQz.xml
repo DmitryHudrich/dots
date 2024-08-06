@@ -1,0 +1,394 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ConsoleApp8" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1yox982zakx1t" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/ConsoleApp8/Program.fs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="506">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+              <folding>
+                <marker date="1721656844805" expanded="true" signature="0:43" ph="..." />
+                <marker date="1721656844805" expanded="true" signature="58:313" ph=" = ..." />
+                <marker date="1721656844805" expanded="true" signature="75:112" ph="= ..." />
+                <marker date="1721656844805" expanded="true" signature="85:112" ph="| Student ..." />
+                <marker date="1721656844805" expanded="true" signature="132:190" ph="= { ..." />
+                <marker date="1721656844805" expanded="true" signature="142:190" ph="{ FirstName: String ..." />
+                <marker date="1721656844805" expanded="true" signature="209:313" ph="= { ..." />
+                <marker date="1721656844805" expanded="true" signature="219:313" ph="{ Identity: Identity ..." />
+                <marker date="1721656844805" expanded="true" signature="345:427" ph=" = ..." />
+                <marker date="1721656844805" expanded="true" signature="443:538" ph=" = ..." />
+                <marker date="1721656844805" expanded="true" signature="482:538" ph=" = ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.editorconfig">
+          <provider editor-type-id="org.editorconfig.configmanagement.editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp8/Dockerfile">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Dockerfile": {
+      "usageCount": 3,
+      "lastUsed": 1721655693549
+    },
+    "EditorConfig": {
+      "usageCount": 3,
+      "lastUsed": 1721656806137
+    },
+    "F#": {
+      "usageCount": 3,
+      "lastUsed": 1721655691674
+    },
+    "YAML": {
+      "usageCount": 3,
+      "lastUsed": 1721655696387
+    },
+    "C#": {
+      "usageCount": 1,
+      "lastUsed": 1721655410401
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ConsoleApp8/Program.fs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.ConsoleApp8/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="1" lastUsage="1721655410401" />
+    </language>
+    <language id="Dockerfile">
+      <summary usageCount="3" lastUsage="1721655693550" />
+    </language>
+    <language id="EditorConfig">
+      <summary usageCount="3" lastUsage="1721656806137" />
+    </language>
+    <language id="F#">
+      <summary usageCount="3" lastUsage="1721655691682" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="3" lastUsage="1721655696387" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp8" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp8" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution Items" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp8" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ConsoleApp8" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="ConsoleApp8" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="ConsoleApp8" type="34e6ba20:FileSystemExplorerNode" />
+              <item name=".editorconfig" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </select>
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info anchor="bottom" id="Build" order="4" sideWeight="0.5002747" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="1" weight="0.22581494" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Debug">
+          <value>
+            <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.5002747" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Endpoints">
+          <value>
+            <window_info anchor="right" id="Endpoints" order="4" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Monitoring">
+          <value>
+            <window_info anchor="right" id="Monitoring" order="4" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="NuGet">
+          <value>
+            <window_info anchor="bottom" id="NuGet" order="4" sideWeight="0.5002747" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.113301784" />
+          </value>
+        </entry>
+        <entry key="Pull Requests">
+          <value>
+            <window_info id="Pull Requests" order="2" weight="0.22581494" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info anchor="bottom" id="Run" order="4" sideWeight="0.44093406" weight="0.48686773" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="5" sideWeight="0.55906594" side_tool="true" weight="0.48686773" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.08964248" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.5002747" weight="0.48686773" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5002747" weight="0.48686773" />
+          </value>
+        </entry>
+        <entry key="dotMemory Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.297081" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.ConsoleApp8" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3416000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.113301784" />
+      <window_info id="Commit" order="1" weight="0.22581494" />
+      <window_info id="Pull Requests" order="2" weight="0.22581494" />
+      <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.08964248" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5002747" weight="0.48686773" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.5002747" weight="0.48686773" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.44093406" weight="0.48686773" />
+      <window_info anchor="bottom" id="NuGet" order="4" sideWeight="0.5002747" weight="0.33803502" />
+      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.5002747" weight="0.33803502" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.297081" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.5002747" weight="0.33803502" />
+      <window_info anchor="bottom" id="Services" order="5" sideWeight="0.55906594" side_tool="true" weight="0.48686773" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32991588" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32991588" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="4" weight="0.32991588" />
+      <window_info anchor="right" id="Monitoring" order="4" weight="0.32991588" />
+      <unified_weights bottom="0.33803502" left="0.113301784" right="0.32991588" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>NuGet</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="543" y="246" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1" timestamp="1721655202716">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="543" y="246" key="ANALYSIS_DLG_com.jetbrains.rider.actions.impl.cleanup.RiderCodeCleanupAction$actionPerformed$dlg$1/0.0.1920.1080@0.0.1920.1080" timestamp="1721655202716" />
+    <state width="1820" height="458" key="GridCell.Tab.0.bottom" timestamp="1721655215735">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="458" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1721655215735" />
+    <state width="1820" height="458" key="GridCell.Tab.0.center" timestamp="1721655215735">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="458" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1721655215735" />
+    <state width="1820" height="458" key="GridCell.Tab.0.left" timestamp="1721655215734">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="458" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1721655215734" />
+    <state width="1820" height="458" key="GridCell.Tab.0.right" timestamp="1721655215735">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="458" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1721655215735" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/e22c0dd9a2174ddd9f8050156d17fadcb2c800/0c/9f4ad2ac/String.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="28" column="22" selection-start-line="28" selection-start-column="22" selection-end-line="28" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp8/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp8/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+          <folding>
+            <marker date="1721656844805" expanded="true" signature="0:43" ph="..." />
+            <marker date="1721656844805" expanded="true" signature="58:313" ph=" = ..." />
+            <marker date="1721656844805" expanded="true" signature="75:112" ph="= ..." />
+            <marker date="1721656844805" expanded="true" signature="85:112" ph="| Student ..." />
+            <marker date="1721656844805" expanded="true" signature="132:190" ph="= { ..." />
+            <marker date="1721656844805" expanded="true" signature="142:190" ph="{ FirstName: String ..." />
+            <marker date="1721656844805" expanded="true" signature="209:313" ph="= { ..." />
+            <marker date="1721656844805" expanded="true" signature="219:313" ph="{ Identity: Identity ..." />
+            <marker date="1721656844805" expanded="true" signature="345:427" ph=" = ..." />
+            <marker date="1721656844805" expanded="true" signature="443:538" ph=" = ..." />
+            <marker date="1721656844805" expanded="true" signature="482:538" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

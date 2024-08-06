@@ -1,0 +1,300 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="App1" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1i0fyq6o0pote" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App1/src/App1/Router.fs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-108" />
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App1/src/App1/App1.fsproj">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/App1/src/Migrations/Migrations.fsproj">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/App1/.paket/Paket.Restore.targets">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="612">
+              <caret line="170" column="4" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Fsproj": {
+      "usageCount": 3,
+      "lastUsed": 1720556078395
+    },
+    "F#": {
+      "usageCount": 2,
+      "lastUsed": 1720555639624
+    },
+    "MsBuild targets file": {
+      "usageCount": 1,
+      "lastUsed": 1720555717395
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/App1/src/App1/App1.fsproj" />
+      <option value="$PROJECT_DIR$/App1/src/Migrations/Migrations.fsproj" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.App1/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="F#">
+      <summary usageCount="2" lastUsage="1720555639624" />
+    </language>
+    <language id="MSBuild">
+      <summary usageCount="4" lastUsage="1720556078395" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="App1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="App1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="App1" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="App1" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Migrations" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info anchor="bottom" id="Build" order="4" weight="0.3091346" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="1" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17942709" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info anchor="bottom" id="Run" order="4" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="4" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3091346" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" />
+          </value>
+        </entry>
+        <entry key="dotMemory Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.3091346" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.App1" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" />
+      <TerminalTabState tabName="Local (2)" />
+      <TerminalTabState tabName="Local (3)" currentWorkingDirectory="$PROJECT_DIR$/App1/src/App1">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+    <option name="mySelectedTabIndex" value="2" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="777000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17942709" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.3091346" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.3091346" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.3091346" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3091346" left="0.17942709" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="179" width="903" height="681" key="Rider.NewProjectDialog.Size" timestamp="1720556144291">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="179" width="903" height="681" key="Rider.NewProjectDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1720556144291" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/App1/.paket/Paket.Restore.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="170" column="4" selection-start-line="170" selection-start-column="4" selection-end-line="170" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App1/src/App1/Router.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-108" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App1/src/App1/App1.fsproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App1/src/Migrations/Migrations.fsproj">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" column="28" selection-start-line="3" selection-start-column="28" selection-end-line="3" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

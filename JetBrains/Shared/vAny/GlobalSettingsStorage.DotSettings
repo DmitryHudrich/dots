@@ -1,0 +1,6 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UpdatesManger/LastUpdateCheck/@EntryValue">07/24/2024 13:12:54</s:String>
+	<s:String x:Key="/Default/InstallationId/Value/@EntryValue">A76C01A9EB5B634CA9C1919C2A577DD3</s:String>
+	<s:String x:Key="/Default/OptionsGeneral/WorkspaceStorageDirectory/@EntryValue">/home/w1thluv/.local/share</s:String>
+	<s:String x:Key="/Default/Environment/UpdatesManger/LastUpdateCheckPerHost/=/@EntryIndexedValue">07/24/2024 10:11:53</s:String>
+	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

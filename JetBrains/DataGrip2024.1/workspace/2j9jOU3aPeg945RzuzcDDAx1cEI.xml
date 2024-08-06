@@ -1,0 +1,277 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="FSOrmTest" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="Eblan data source: DSN" type="27e358d6:DataSourceNode" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="Eblan data source: DSN" type="27e358d6:DataSourceNode" />
+        <item name="bebradb: database" type="162271b6:PgImplModel$Database" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="Eblan data source: DSN" type="27e358d6:DataSourceNode" />
+        <item name="bebradb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="Eblan data source: DSN" type="27e358d6:DataSourceNode" />
+        <item name="bebradb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 2 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+      </path>
+      <path>
+        <item name="Root Group" type="25e4ec8d:DvRootDsGroup" />
+        <item name="Eblan data source: DSN" type="27e358d6:DataSourceNode" />
+        <item name="bebradb: database" type="162271b6:PgImplModel$Database" />
+        <item name="public: schema" type="983ebcf7:PgImplModel$Schema" />
+        <item name="Family of 2 table (host: schema public)" type="28178dcc:BaseModel$BaseNamingIdentifyingFamily" />
+        <item name="users: table" type="69fad909:PgImplModel$LocalTable" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="886m7t4a1ang" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6beca7e8-f4a8-4463-804a-bd85675dfb14/console.sql">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f214543d-143e-42b6-87d5-e1f4a29e0aa1/console_1.sql">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="126">
+              <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="das://f214543d-143e-42b6-87d5-e1f4a29e0aa1/database/bebradb/schema/public/table/users">
+          <provider editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider" selected="true">
+            <state lastOpenedTimestamp="1720890259089" presentationMode="TABLE" projectRestartId="ece85a6c-d65b-4523-a87e-f1ec19fb049d" pageSize="500">
+              <filtering>
+                <filter text="" />
+              </filtering>
+              <sorting>
+                <sort text="" />
+              </sorting>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f214543d-143e-42b6-87d5-e1f4a29e0aa1/console.sql">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Database Element": {
+      "usageCount": 4,
+      "lastUsed": 1720890259231
+    },
+    "SQL": {
+      "usageCount": 7,
+      "lastUsed": 1720888781393
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/6beca7e8-f4a8-4463-804a-bd85675dfb14/console.sql" />
+      <option value="$APPLICATION_CONFIG_DIR$/consoles/db/f214543d-143e-42b6-87d5-e1f4a29e0aa1/console_1.sql" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="SQL">
+      <summary usageCount="7" lastUsage="1720888781393" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1" />
+    <panes />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Eblan data source: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Eblan data source: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="Database" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="Eblan data source: root" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+                <item name="{}" type="9fbbdea:ServiceModel$ServiceNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Database" order="0" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Inspection" order="4" weight="0.4" />
+      <window_info anchor="bottom" id="Services" order="5" visible="true" weight="0.33025292" />
+      <window_info anchor="bottom" id="Problems View" order="5" weight="0.33025292" />
+      <window_info anchor="right" content_ui="combo" id="Project" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.24036458" />
+      <window_info anchor="right" id="Structure" order="2" side_tool="true" weight="0.25" />
+      <unified_weights bottom="0.33025292" left="0.25" right="0.24036458" />
+    </layoutV2>
+    <recentWindows>
+      <value>Database</value>
+      <value>Services</value>
+      <value>Problems View</value>
+      <value>AIAssistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="559" y="187" width="802" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1720889494229">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="559" y="180" width="802" height="680" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1720806237275" />
+    <state x="559" y="187" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1720889494229" />
+    <state x="498" y="122" width="800" height="800" key="DbModifyObjectDialog" timestamp="1720890279566">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="121" width="800" height="800" key="DbModifyObjectDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1720807205006" />
+    <state x="498" y="122" width="800" height="800" key="DbModifyObjectDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1720890279566" />
+    <state width="1303" height="297" key="GridCell.Tab.0.bottom" timestamp="1720890259320">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1303" height="297" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1720890259320" />
+    <state width="1303" height="297" key="GridCell.Tab.0.center" timestamp="1720890259320">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1303" height="297" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1720890259320" />
+    <state width="1303" height="297" key="GridCell.Tab.0.left" timestamp="1720890259318">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1303" height="297" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1720890259318" />
+    <state width="1303" height="297" key="GridCell.Tab.0.right" timestamp="1720890259320">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1303" height="297" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1720890259320" />
+    <state x="460" y="156" key="SettingsEditor" timestamp="1720806995276">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="460" y="156" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1720806995276" />
+    <state x="730" y="378" width="459" height="353" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog" timestamp="1720888826035">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="730" y="378" width="459" height="353" key="com.intellij.database.psi.DbRenamePsiElementProcessor.DbRenameDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1720888826035" />
+    <state x="636" y="243" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1720821586730">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="636" y="243" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1720821586730" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6beca7e8-f4a8-4463-804a-bd85675dfb14/console_1.sql" />
+    <entry file="das://6beca7e8-f4a8-4463-804a-bd85675dfb14/schema/main/table/employees">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1720806983153" presentationMode="TABLE" projectRestartId="fab3555a-dba6-489a-8e4b-c98ddbb98341" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="id" />
+            <sort text="" />
+          </sorting>
+          <column-attributes>
+            <column name="rowid" position="-1" numberDisplayType="NUMBER" />
+          </column-attributes>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f214543d-143e-42b6-87d5-e1f4a29e0aa1/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="das://f214543d-143e-42b6-87d5-e1f4a29e0aa1/database/bebradb/schema/public/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1720888608305" presentationMode="TABLE" projectRestartId="ece85a6c-d65b-4523-a87e-f1ec19fb049d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+            <sort text="last_name DESC" />
+            <sort text="last_name" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/6beca7e8-f4a8-4463-804a-bd85675dfb14/console.sql">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/consoles/db/f214543d-143e-42b6-87d5-e1f4a29e0aa1/console_1.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="20" lean-forward="true" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f214543d-143e-42b6-87d5-e1f4a29e0aa1/database/bebradb/schema/public/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1720890259089" presentationMode="TABLE" projectRestartId="ece85a6c-d65b-4523-a87e-f1ec19fb049d">
+          <filtering />
+          <sorting />
+        </state>
+      </provider>
+    </entry>
+    <entry file="das://f214543d-143e-42b6-87d5-e1f4a29e0aa1/database/bebradb/schema/public/table/users">
+      <provider selected="true" editor-type-id="com.intellij.database.editor.DatabaseTableFileEditorProvider">
+        <state lastOpenedTimestamp="1720890259089" presentationMode="TABLE" projectRestartId="ece85a6c-d65b-4523-a87e-f1ec19fb049d" pageSize="500">
+          <filtering>
+            <filter text="" />
+          </filtering>
+          <sorting>
+            <sort text="" />
+          </sorting>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

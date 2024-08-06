@@ -1,0 +1,114 @@
+<application>
+  <component name="SolutionConfigurationStore">
+    <option name="configurations">
+      <map>
+        <entry key="$USER_HOME$/Projects/BebraDb/BebraDb.fsproj">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/Quotes/Quotes.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/RabbitMqTest">
+          <value>
+            <ConfigurationInfo />
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/App1/App1.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/BebraBay/BebraBay.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/BebraHelper/AskaHelper.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Release" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/BebraHelper/BebraHelper.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp10/ConsoleApp10.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp5/ConsoleApp5.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp6/ConsoleApp6.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp7/ConsoleApp7.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp8/ConsoleApp8.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/RiderProjects/ZazaPassages/ZazaPassages.sln">
+          <value>
+            <ConfigurationInfo>
+              <option name="activeConfiguration" value="Debug" />
+              <option name="activePlatform" value="Any CPU" />
+            </ConfigurationInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</application>

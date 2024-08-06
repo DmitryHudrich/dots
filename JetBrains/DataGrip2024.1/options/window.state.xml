@@ -1,0 +1,13 @@
+<application>
+  <component name="SingleStripeButtonsState">
+    <id>Database</id>
+    <id>Project</id>
+    <id>Services</id>
+  </component>
+  <component name="WindowStateApplicationService">
+    <state x="746" y="211" key="FileChooserDialogImpl" timestamp="1720806151071">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="746" y="211" key="FileChooserDialogImpl/0.0.1920.1040" timestamp="1720806151071" />
+  </component>
+</application>

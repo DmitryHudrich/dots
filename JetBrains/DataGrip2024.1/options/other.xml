@@ -1,0 +1,55 @@
+<application>
+  <component name="FileEditorProviderManager">{}</component>
+  <component name="NotRoamableUiSettings">
+    <option name="fontSize" value="12.0" />
+    <option name="presentationModeIdeScale" value="1.75" />
+    <option name="experimentalSingleStripe" value="true" />
+  </component>
+  <component name="PropertyService"><![CDATA[{
+  "keyToString": {
+    "DG.SingleStripe.Customization2": "true",
+    "DG.SingleStripe.LastLocale": "en",
+    "DbRenameDialog.previewExpanded": "true",
+    "LAST_CALCULATED_COLOR_INDEX_KEY": "3",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/aggregators": "DB-241.17890.24",
+    "LAST_EXTRACTOR_SCRIPTS_CLEANUP_VERSION/data/extractors": "DB-241.17890.24",
+    "RunOnceActivity.llm.installer.activate.toolwindow": "true",
+    "ask.about.ctrl.y.shortcut.v2": "true",
+    "com.intellij.database.actions.ddl.DbModifyObjectDialog.proportion": "0.5",
+    "database.notebook.setting.id": "c408e2c9-2874-4ec6-8f71-00e3cc962b00",
+    "enter_selection_count": "5",
+    "evlsprt3.241": "5",
+    "experimental.ui.used.version": "241.17890.24",
+    "fileTypeChangedCounter": "1",
+    "fontSizeToResetConsole": "12.0",
+    "fontSizeToResetEditor": "12.0",
+    "got.it.tooltip.database.schema.control.got.it": "1",
+    "gotit.previous.run": "DB-241.17890.24",
+    "ide.memory.adjusted": "true",
+    "last_opened_file_path": "/home/w1thluv/Projects/FSOrmTest",
+    "llm.installer.last.toolwindow.state": "LLM_INSTALLER",
+    "migrated.non.roamable.values.from.general.settings": "true",
+    "previousColorScheme": "_@user_Dark",
+    "registry.to.advanced.settings.migration.build": "DB-241.17890.24"
+  },
+  "keyToStringList": {
+    "file.chooser.recent.files": [
+      "/home/w1thluv/Projects/FSOrmTest"
+    ],
+    "fileTypeDetectors": [
+      "com.intellij.ide.scratch.ScratchFileServiceImpl$Detector",
+      "com.intellij.database.vfs.DbStorageFileType$Detector",
+      "org.jetbrains.plugins.textmate.TextMateFileType$TextMateFileDetector"
+    ]
+  }
+}]]></component>
+  <component name="ShownTips">{
+  &quot;shownTips&quot;: {
+    &quot;CommentCode&quot;: 1720818669475
+  },
+  &quot;proposedTips&quot;: {
+    &quot;CommentCode&quot;: 1720818669266
+  },
+  &quot;tipsOrderSeed&quot;: 1720818669237
+}</component>
+</application>

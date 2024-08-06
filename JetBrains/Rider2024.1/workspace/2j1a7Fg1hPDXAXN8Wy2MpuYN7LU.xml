@@ -1,0 +1,237 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Giraffe" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1i0fyq6o0pote">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web.config">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Giraffe.fsproj">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/Program.fs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="705">
+              <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+              <folding>
+                <marker date="1720556987994" expanded="true" signature="18:3443" ph=" ..." />
+                <marker date="1720556987994" expanded="false" signature="20:287" ph="..." />
+                <marker date="1720556987994" expanded="true" signature="289:372" ph="// --------------------------------- ..." />
+                <marker date="1720556987994" expanded="true" signature="387:422" ph="= ..." />
+                <marker date="1720556987994" expanded="true" signature="393:422" ph="{ ..." />
+                <marker date="1720556987994" expanded="true" signature="424:506" ph="// --------------------------------- ..." />
+                <marker date="1720556987994" expanded="true" signature="520:1054" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="590:861" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="610:860" ph=" ..." />
+                <marker date="1720556987994" expanded="true" signature="632:822" ph=" ..." />
+                <marker date="1720556987994" expanded="true" signature="705:809" ph=" [ _rel  &quot;stylesheet&quot; ..." />
+                <marker date="1720556987994" expanded="true" signature="881:923" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="956:1054" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="968:1043" ph=" ..." />
+                <marker date="1720556987994" expanded="true" signature="1056:1140" ph="// --------------------------------- ..." />
+                <marker date="1720556987994" expanded="true" signature="1174:1332" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="1344:1558" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="1357:1558" ph=" [ ..." />
+                <marker date="1720556987994" expanded="true" signature="1394:1509" ph=" [ ..." />
+                <marker date="1720556987994" expanded="true" signature="1560:1650" ph="// --------------------------------- ..." />
+                <marker date="1720556987994" expanded="true" signature="1704:1858" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="1860:1952" ph="// --------------------------------- ..." />
+                <marker date="1720556987994" expanded="true" signature="2001:2179" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="2050:2111" ph="&quot;http://localhost:5000&quot;, ..." />
+                <marker date="1720556987994" expanded="true" signature="2225:2577" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="2335:2490" ph=" ..." />
+                <marker date="1720556987994" expanded="true" signature="2346:2390" ph="  -&gt; ..." />
+                <marker date="1720556987994" expanded="true" signature="2402:2490" ph=" -&gt; ..." />
+                <marker date="1720556987994" expanded="true" signature="2632:2706" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="2756:2816" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="2846:3443" ph=" = ..." />
+                <marker date="1720556987994" expanded="true" signature="3063:3404" ph=" -&gt; ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Fsproj": {
+      "usageCount": 1,
+      "lastUsed": 1720556957654
+    },
+    "Config": {
+      "usageCount": 1,
+      "lastUsed": 1720556892967
+    },
+    "F#": {
+      "usageCount": 1,
+      "lastUsed": 1720556897805
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/Program.fs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Giraffe.dir/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Config">
+      <summary usageCount="1" lastUsage="1720556892971" />
+    </language>
+    <language id="F#">
+      <summary usageCount="1" lastUsage="1720556897805" />
+    </language>
+    <language id="MSBuild">
+      <summary usageCount="1" lastUsage="1720556957654" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Giraffe" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Giraffe" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Program.fs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="117000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13098958" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.29759616" />
+      <window_info anchor="bottom" id="Run" order="4" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.3091346" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.3091346" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.29759616" left="0.13098958" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Terminal</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="505" y="179" width="903" height="681" key="Rider.NewProjectDialog.Size" timestamp="1720556987935">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="179" width="903" height="681" key="Rider.NewProjectDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1720556987935" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Giraffe.fsproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web.config">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="705">
+          <caret line="82" column="34" selection-start-line="82" selection-start-column="34" selection-end-line="82" selection-end-column="34" />
+          <folding>
+            <marker date="1720556987994" expanded="true" signature="18:3443" ph=" ..." />
+            <marker date="1720556987994" expanded="false" signature="20:287" ph="..." />
+            <marker date="1720556987994" expanded="true" signature="289:372" ph="// --------------------------------- ..." />
+            <marker date="1720556987994" expanded="true" signature="387:422" ph="= ..." />
+            <marker date="1720556987994" expanded="true" signature="393:422" ph="{ ..." />
+            <marker date="1720556987994" expanded="true" signature="424:506" ph="// --------------------------------- ..." />
+            <marker date="1720556987994" expanded="true" signature="520:1054" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="590:861" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="610:860" ph=" ..." />
+            <marker date="1720556987994" expanded="true" signature="632:822" ph=" ..." />
+            <marker date="1720556987994" expanded="true" signature="705:809" ph=" [ _rel  &quot;stylesheet&quot; ..." />
+            <marker date="1720556987994" expanded="true" signature="881:923" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="956:1054" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="968:1043" ph=" ..." />
+            <marker date="1720556987994" expanded="true" signature="1056:1140" ph="// --------------------------------- ..." />
+            <marker date="1720556987994" expanded="true" signature="1174:1332" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="1344:1558" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="1357:1558" ph=" [ ..." />
+            <marker date="1720556987994" expanded="true" signature="1394:1509" ph=" [ ..." />
+            <marker date="1720556987994" expanded="true" signature="1560:1650" ph="// --------------------------------- ..." />
+            <marker date="1720556987994" expanded="true" signature="1704:1858" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="1860:1952" ph="// --------------------------------- ..." />
+            <marker date="1720556987994" expanded="true" signature="2001:2179" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="2050:2111" ph="&quot;http://localhost:5000&quot;, ..." />
+            <marker date="1720556987994" expanded="true" signature="2225:2577" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="2335:2490" ph=" ..." />
+            <marker date="1720556987994" expanded="true" signature="2346:2390" ph="  -&gt; ..." />
+            <marker date="1720556987994" expanded="true" signature="2402:2490" ph=" -&gt; ..." />
+            <marker date="1720556987994" expanded="true" signature="2632:2706" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="2756:2816" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="2846:3443" ph=" = ..." />
+            <marker date="1720556987994" expanded="true" signature="3063:3404" ph=" -&gt; ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

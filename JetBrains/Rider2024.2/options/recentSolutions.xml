@@ -1,0 +1,26 @@
+<application>
+  <component name="RiderRecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1.sln">
+          <value>
+            <RecentProjectMetaInfo projectWorkspaceId="2idkveqLmcH6fJKGGFhesaUiV6R">
+              <option name="activationTimestamp" value="1721047392726" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="RD-242.20224.26" />
+              <option name="buildTimestamp" value="1720632840000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <option name="eap" value="true" />
+              <frame x="8" y="42" width="1902" height="1028" extendedState="6" />
+              <option name="productionCode" value="RD" />
+              <option name="projectOpenTimestamp" value="1720969252708" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1.sln" />
+  </component>
+</application>

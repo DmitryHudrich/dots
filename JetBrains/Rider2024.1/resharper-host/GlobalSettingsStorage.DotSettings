@@ -1,0 +1,27 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/CodeInspection/Highlighting/InspectionSeverities/=ForeachCanBePartlyConvertedToQueryUsingAnotherGetEnumerator/@EntryIndexedValue">DO_NOT_SHOW</s:String>
+	<s:Boolean x:Key="/Default/CodeInspection/Roslyn/LegacySeveritiesMigrated/@EntryValue">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/CodeFormatting/CSharpCodeStyle/BUILTIN_TYPE_REFERENCE_STYLE/@EntryValue">UseClrName</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/FSharpFormat/AlignFunctionSignatureToIndentation/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/FSharpFormat/AlternativeLongMemberDefinitions/@EntryValue">True</s:Boolean>
+	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/FSharpFormat/MaxArrayOrListWidth/@EntryValue">20</s:Int64>
+	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/FSharpFormat/MaxInfixOperatorExpression/@EntryValue">20</s:Int64>
+	<s:Int64 x:Key="/Default/CodeStyle/CodeFormatting/FSharpFormat/MaxRecordWidth/@EntryValue">20</s:Int64>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/FSharpFormat/MultilineBlockBracketsOnSameColumn/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/FSharpFormat/NeverOutdentPipeOperators/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/CodeFormatting/FSharpFormat/OutdentBinaryOperators/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/CodeStyle/Generate/=Overrides/@KeyIndexDefined">True</s:Boolean>
+	<s:String x:Key="/Default/CodeStyle/Generate/=Overrides/Options/=Async/@EntryIndexedValue">False</s:String>
+	<s:Boolean x:Key="/Default/CodeStyle/Naming/CSharpAutoNaming/IsNotificationDisabled/@EntryValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Dpa/IsIssuesNotificationEnabled/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Environment/ExternalSources/Decompiler/DecompilerLegalNoticeAccepted/@EntryValue">True</s:Boolean>
+	
+	<s:Int64 x:Key="/Default/Environment/Hierarchy/GeneratedFilesCacheKey/Timestamp/@EntryValue">740</s:Int64>
+	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=NullabilityAnnotationAssistSuggester/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue">True</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=TabNavigationExplainer/@EntryIndexedValue">True</s:Boolean>
+	<s:String x:Key="/Default/Housekeeping/OptionsDialog/SelectedPageId/@EntryValue">SolutionBuilderGeneralOptionsPage</s:String>
+	<s:String x:Key="/Default/Profilers/Common/ConfigurationsStore/SelectedProfileConfigurationIdV2/=OsAndRuntime_0020_0028_0020_0020os_0020_003D_0020Linux_0020_0020runtime_0020_003D_0020Net_0029/@EntryIndexedValue">dc424d80-91ba-4784-be4b-30ef5f0cc119</s:String>
+	
+	<s:Boolean x:Key="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue">False</s:Boolean>
+	<s:Boolean x:Key="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue">True</s:Boolean></wpf:ResourceDictionary>

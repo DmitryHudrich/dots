@@ -1,0 +1,87 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Quotes" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Quotes" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Quotes" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="ReaderModeSettings">
+    <option name="showWarnings" value="true" />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4000" />
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info id="Bookmarks" show_stripe_button="false" side_tool="true" />
+      <window_info id="Merge Requests" show_stripe_button="false" />
+      <window_info id="Pull Requests" show_stripe_button="false" />
+      <window_info id="Learn" show_stripe_button="false" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24631965" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TypeScript" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Dynamic Program Analysis" show_stripe_button="false" />
+      <window_info anchor="bottom" id="TODO" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" show_stripe_button="false" />
+      <window_info anchor="bottom" id="File Transfer" show_stripe_button="false" />
+      <window_info anchor="bottom" id="NuGet" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.28592235" />
+      <window_info anchor="bottom" id="Debug" order="4" show_stripe_button="false" weight="0.32961166" />
+      <window_info anchor="bottom" id="dotTrace Profiler" order="4" weight="0.32961166" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" weight="0.33446604" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.33446604" />
+      <window_info active="true" anchor="bottom" id="dotMemory" order="4" visible="true" weight="0.06015779" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" visible="true" weight="0.32184464" />
+      <window_info anchor="right" id="Endpoints" show_stripe_button="false" />
+      <window_info anchor="right" id="IL" show_stripe_button="false" />
+      <window_info anchor="right" id="Coverage" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Test Coverage" show_stripe_button="false" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Monitoring" order="4" weight="0.33009452" />
+      <unified_weights bottom="0.06015779" left="0.24631965" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+</project>

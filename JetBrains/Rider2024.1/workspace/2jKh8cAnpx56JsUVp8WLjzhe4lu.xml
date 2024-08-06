@@ -1,0 +1,1010 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="Everything" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2xdge879idrmp">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PublicApi/AuthEndpoints/AuthenticateEndpoint.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="543">
+              <caret line="58" selection-start-line="58" selection-end-line="58" />
+              <folding>
+                <marker date="1721141508051" expanded="false" signature="6:295" ph="..." />
+                <marker date="1721141508051" expanded="true" signature="352:405" ph="/// Authenticates a user ... " />
+                <marker date="1721141508051" expanded="true" signature="541:2226" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="800:902" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="943:1140" ph="[...]" />
+                <marker date="1721141508051" expanded="true" signature="1303:2224" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="1393:1683" ph="// This doesn't count login failures towards account lockout ... " />
+                <marker date="1721141508051" expanded="true" signature="2084:2192" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PublicApi/CatalogItemEndpoints/CatalogItemGetByIdEndpoint.GetByIdCatalogItemResponse.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding>
+                <marker date="1721141508051" expanded="true" signature="131:333" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="213:225" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="266:278" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PublicApi/CatalogItemEndpoints/CreateCatalogItemEndpoint.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="235">
+              <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+              <folding>
+                <marker date="1721141508051" expanded="true" signature="6:470" ph="..." />
+                <marker date="1721141508051" expanded="true" signature="534:593" ph="/// Creates a new Catalog Item ... " />
+                <marker date="1721141508051" expanded="true" signature="705:3258" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="819:867" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="920:1419" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="1232:1314" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="1538:3256" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="1851:1971" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="2216:2762" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="2239:2629" ph="// We disabled the upload functionality and added a default/placeholder image to this sample due to a potential s ... " />
+                <marker date="1721141508051" expanded="true" signature="2809:3140" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/ApplicationCore/Services/OrderService.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="-374">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <marker date="1721141508041" expanded="false" signature="6:370" ph="..." />
+                <marker date="1721141508041" expanded="true" signature="469:2205" ph="{...}" />
+                <marker date="1721141508041" expanded="true" signature="890:1070" ph="{...}" />
+                <marker date="1721141508041" expanded="true" signature="1149:2203" ph="{...}" />
+                <marker date="1721141508041" expanded="true" signature="1696:2065" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/22e932ac9e55b2b7e856dc8b8f9f5c652a69c5938bcd7b3fff66920a02c37/IReadRepositoryBase.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="203">
+              <caret line="139" column="14" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="14" />
+              <folding>
+                <marker date="1721144686607" expanded="false" signature="6:101" ph="..." />
+                <marker date="1721144686607" expanded="true" signature="134:9267" ph="{...}" />
+                <marker date="1721144686607" expanded="true" signature="139:510" ph="/// &lt;para&gt; ... " />
+                <marker date="1721144686607" expanded="true" signature="568:9265" ph="{...}" />
+                <marker date="1721144686607" expanded="true" signature="577:1060" ph="/// Finds an entity with the given primary key value. ... " />
+                <marker date="1721144686607" expanded="true" signature="1173:1573" ph="/// Finds an entity that matches the encapsulated query logic of the &lt;paramref name=&quot;specification&quot;/&gt;. ... " />
+                <marker date="1721144686607" expanded="true" signature="1703:2152" ph="/// Finds an entity that matches the encapsulated query logic of the &lt;paramref name=&quot;specification&quot;/&gt;. ... " />
+                <marker date="1721144686607" expanded="true" signature="2306:2839" ph="/// Returns the first element of a sequence, or a default value if the sequence contains no elements. ... " />
+                <marker date="1721144686607" expanded="true" signature="2959:3498" ph="/// Returns the first element of a sequence, or a default value if the sequence contains no elements. ... " />
+                <marker date="1721144686607" expanded="true" signature="3642:4245" ph="/// Returns the only element of a sequence, or a default value if the sequence is empty; this method throws an exc ... " />
+                <marker date="1721144686607" expanded="true" signature="4378:4987" ph="/// Returns the only element of a sequence, or a default value if the sequence is empty; this method throws an exc ... " />
+                <marker date="1721144686607" expanded="true" signature="5144:5453" ph="/// Finds all entities of &lt;typeparamref name=&quot;T&quot; /&gt; from the database. ... " />
+                <marker date="1721144686607" expanded="true" signature="5535:6010" ph="/// Finds all entities of &lt;typeparamref name=&quot;T&quot; /&gt;, that matches the encapsulated query logic of the ... " />
+                <marker date="1721144686607" expanded="true" signature="6125:6818" ph="/// Finds all entities of &lt;typeparamref name=&quot;T&quot; /&gt;, that matches the encapsulated query logic of the ... " />
+                <marker date="1721144686607" expanded="true" signature="6957:7383" ph="/// Returns a number that represents how many entities satisfy the encapsulated query logic ... " />
+                <marker date="1721144686607" expanded="true" signature="7495:7747" ph="/// Returns the total number of records. ... " />
+                <marker date="1721144686607" expanded="true" signature="7826:8285" ph="/// Returns a boolean that represents whether any entity satisfy the encapsulated query logic ... " />
+                <marker date="1721144686607" expanded="true" signature="8396:8687" ph="/// Returns a boolean whether any entity exists or not. ... " />
+                <marker date="1721144686607" expanded="true" signature="8788:9178" ph="//  Finds all entities of &lt;typeparamref name=&quot;T&quot; /&gt;, that matches the encapsulated query logic of the ... " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Infrastructure/Data/EfRepository.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+              <folding>
+                <marker date="1721144664691" expanded="false" signature="6:101" ph="..." />
+                <marker date="1721144664691" expanded="true" signature="270:363" ph="{...}" />
+                <marker date="1721144664691" expanded="true" signature="340:361" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ApplicationCore/Interfaces/IRepository.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="110">
+              <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+              <folding>
+                <marker date="1721141508041" expanded="true" signature="172:176" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9e00d2d5173e44199b6eaefaf0d2a26b81200/24/06c03148/SignInManager`1.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+              <folding>
+                <marker date="1721144179311" expanded="false" signature="0:362" ph="// Decompiled with JetBrains decompiler..." />
+                <marker date="1721144179311" expanded="true" signature="370:768" ph="..." />
+                <marker date="1721144179311" expanded="true" signature="826:28915" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="884:28913" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="1708:2294" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="2680:2896" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="2696:2854" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="2981:3050" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="3113:3380" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="3444:4497" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="3615:3781" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="3958:4137" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="4559:5344" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="5008:5221" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="5449:5783" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="5939:6398" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="6060:6280" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="6532:6876" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="7049:7511" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="7557:7989" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="8083:8518" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="8621:9113" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="9213:9595" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="9278:9569" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="9372:9538" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="9756:10171" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="10337:10578" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="10719:12034" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="10993:11568" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="11395:11523" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="11737:11994" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="12116:12616" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="12688:12942" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="12897:12934" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="12996:13093" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="13192:13608" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="13832:14785" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="14472:14655" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="14957:15877" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="15580:15837" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="16038:16920" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="16623:16880" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="16997:17211" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="17355:17460" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="17638:18012" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="18154:18403" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="18509:19902" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="20029:20903" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="20243:20860" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="20542:20820" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="21093:21435" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="21195:21238" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="21529:21986" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="22060:22848" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="22430:22659" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="22921:23233" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="23420:24790" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="23609:24337" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="23690:24329" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="23807:23887" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="23996:24270" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="24615:24660" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="24915:25878" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="25700:25871" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="25963:26128" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="26192:26357" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="26433:26623" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="26682:26974" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="27071:27740" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="27386:27622" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="27684:27734" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="27802:28454" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="28001:28448" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="28021:28440" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="28184:28387" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="28551:28909" ph="{...}" />
+                <marker date="1721144179311" expanded="true" signature="28887:28903" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fff5f83fe77b41208fcb86fc8e8087021dc400/28/899bde34/ActionResult`1.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state>
+              <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+              <folding>
+                <marker date="1721144149947" expanded="false" signature="0:356" ph="// Decompiled with JetBrains decompiler..." />
+                <marker date="1721144149947" expanded="false" signature="364:488" ph="..." />
+                <marker date="1721144149947" expanded="true" signature="541:2205" ph="{...}" />
+                <marker date="1721144149947" expanded="true" signature="611:2203" ph="{...}" />
+                <marker date="1721144149947" expanded="true" signature="701:1000" ph="{...}" />
+                <marker date="1721144149947" expanded="true" signature="1046:1399" ph="{...}" />
+                <marker date="1721144149947" expanded="true" signature="1548:1606" ph="{...}" />
+                <marker date="1721144149947" expanded="true" signature="1685:1744" ph="{...}" />
+                <marker date="1721144149947" expanded="true" signature="1818:2199" ph="{...}" />
+                <marker date="1721144149947" expanded="true" signature="2108:2192" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/PublicApi/AuthEndpoints/AuthenticateEndpoint.AuthenticateResponse.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="484">
+              <caret line="19" selection-start-line="19" selection-end-line="19" />
+              <folding>
+                <marker date="1721141508051" expanded="true" signature="118:572" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="194:206" ph="{...}" />
+                <marker date="1721141508051" expanded="true" signature="241:253" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C#": {
+      "usageCount": 33,
+      "lastUsed": 1721144702598
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1721141534045
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Infrastructure/Data/EfRepository.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.Everything/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="33" lastUsage="1721144702598" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1721141534051" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ApplicationCore" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ApplicationCore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Data" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Queries" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Identity" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Infrastructure" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PublicApi" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PublicApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="AuthEndpoints" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PublicApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CatalogItemEndpoints" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="PublicApi" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="CatalogTypeEndpoints" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Everything" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ApplicationCore" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Services" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="OrderService.cs" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Launch Settings Profile.BlazorAdmin" />
+    </history>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2617000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.14747635" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.09542587" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2975728" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.2975728" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.29759616" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.29717898" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.29717898" />
+      <window_info anchor="bottom" id="EF Core" order="4" weight="0.29717898" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="Monitoring" order="4" visible="true" weight="0.33009452" />
+      <unified_weights bottom="0.29717898" left="0.14747635" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Build</value>
+      <value>dotMemory Profiler</value>
+      <value>EF Core</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="207" key="SettingsEditor" timestamp="1721141669023">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="207" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1721141669023" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ApplicationCore/Interfaces/IAggregateRoot.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="17" selection-start-line="2" selection-start-column="17" selection-end-line="2" selection-end-column="17" />
+          <folding>
+            <marker date="1721141508041" expanded="true" signature="89:93" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ApplicationCore/Interfaces/IAppLogger.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="6" column="17" selection-start-line="6" selection-start-column="17" selection-end-line="6" selection-end-column="17" />
+          <folding>
+            <marker date="1721141508041" expanded="true" signature="58:211" ph="/// This type eliminates the need to depend directly on the ASP.NET Core logging types. ... " />
+            <marker date="1721141508041" expanded="true" signature="242:368" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ApplicationCore/Interfaces/IBasketQueryService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1721141508041" expanded="true" signature="89:182" ph="/// Specific query used to fetch count without running in memory ... " />
+            <marker date="1721141508041" expanded="true" signature="219:277" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ApplicationCore/Interfaces/IBasketService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding>
+            <marker date="1721141508041" expanded="false" signature="6:152" ph="..." />
+            <marker date="1721141508041" expanded="true" signature="243:549" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/86c3b98116d47e6b0ddef895dc334323c8997cd6a3939761bd76ee172cb916/Guard.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <marker date="1721141754107" expanded="true" signature="105:772" ph="{...}" />
+            <marker date="1721141754107" expanded="true" signature="112:246" ph="/// Simple interface to provide a generic mechanism to build guard clause extension methods from. ... " />
+            <marker date="1721141754107" expanded="true" signature="280:292" ph="{...}" />
+            <marker date="1721141754107" expanded="true" signature="298:506" ph="/// An entry point to a set of Guard Clauses defined as extension methods on IGuardClause. ... " />
+            <marker date="1721141754107" expanded="true" signature="544:770" ph="{...}" />
+            <marker date="1721141754107" expanded="true" signature="559:649" ph="/// An entry point to a set of Guard Clauses. ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ApplicationCore/Services/BasketService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="42" column="16" lean-forward="true" selection-start-line="42" selection-start-column="16" selection-end-line="42" selection-end-column="16" />
+          <folding>
+            <marker date="1721141508041" expanded="true" signature="6:290" ph="..." />
+            <marker date="1721141508041" expanded="true" signature="391:3169" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="615:699" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="815:1254" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="997:1114" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="1309:1495" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="1598:2263" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="1857:2146" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="1945:2136" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="2343:3167" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="2762:2887" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="2939:3042" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Dependencies.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-176">
+          <caret line="8" column="20" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <marker date="1721141508047" expanded="false" signature="6:222" ph="..." />
+            <marker date="1721141508047" expanded="true" signature="302:1511" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="404:1509" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="518:631" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="669:929" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="942:1503" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="965:1147" ph="// use real database ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Identity/ApplicationUser.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508047" expanded="true" signature="136:140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Identity/IdentityTokenClaimService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-315">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508047" expanded="false" signature="6:345" ph="..." />
+            <marker date="1721141508047" expanded="true" signature="462:1687" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="608:656" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="718:1685" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="1174:1252" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="1320:1568" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Data/Queries/BasketQueryService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508047" expanded="false" signature="6:138" ph="..." />
+            <marker date="1721141508047" expanded="true" signature="252:887" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="359:403" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="409:584" ph="/// This method performs the sum on the database rather than in memory ... " />
+            <marker date="1721141508047" expanded="true" signature="650:885" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Data/CatalogContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508047" expanded="false" signature="6:245" ph="..." />
+            <marker date="1721141508047" expanded="true" signature="337:1069" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="934:1067" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Data/CatalogContextSeed.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508047" expanded="false" signature="6:201" ph="..." />
+            <marker date="1721141508047" expanded="true" signature="285:4087" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="404:1709" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="464:1418" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="529:608" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="673:879" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="943:1147" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="1211:1408" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="1447:1703" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="1779:2019" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="1836:2012" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="2087:2295" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="2143:2288" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="2356:4085" ph="{...}" />
+            <marker date="1721141508047" expanded="true" signature="2412:4078" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Data/FileItem.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508047" expanded="true" signature="72:309" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Services/EmailSender.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="13" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508051" expanded="false" signature="6:82" ph="..." />
+            <marker date="1721141508051" expanded="true" signature="139:309" ph="// This class is used by the application to send email for account confirmation and password reset. ... " />
+            <marker date="1721141508051" expanded="true" signature="349:568" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="428:566" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/BaseMessage.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="7" column="22" selection-start-line="7" selection-start-column="22" selection-end-line="7" selection-end-column="22" />
+          <folding>
+            <marker date="1721141508051" expanded="true" signature="56:120" ph="/// Base class used by API requests ... " />
+            <marker date="1721141508051" expanded="true" signature="154:340" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="161:235" ph="/// Unique Identifier used by logging ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="523">
+          <caret line="180" column="21" selection-start-line="180" selection-start-column="21" selection-end-line="180" selection-end-column="21" />
+          <folding>
+            <marker date="1721141508051" expanded="false" signature="6:945" ph="..." />
+            <marker date="1721141508051" expanded="true" signature="2386:2456" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="2482:2801" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="2627:2798" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="2882:3198" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="2962:3194" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="3432:4708" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="3650:4032" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="3674:3886" ph="@&quot;JWT Auth...&quot;" />
+            <marker date="1721141508051" expanded="true" signature="4110:4704" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="4208:4624" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="4299:4445" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="4894:5592" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="4951:5483" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="5508:5590" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="5630:5671" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="5902:6007" ph="// Enable middleware to serve swagger-ui (HTML, JS, CSS, etc.), ... " />
+            <marker date="1721141508051" expanded="true" signature="6030:6097" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/AuthEndpoints/AuthenticateEndpoint.AuthenticateRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508051" expanded="true" signature="101:187" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/BaseRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+          <folding>
+            <marker date="1721141508051" expanded="true" signature="41:105" ph="/// Base class used by API requests ... " />
+            <marker date="1721141508051" expanded="true" signature="153:157" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/CatalogTypeEndpoints/CatalogTypeDto.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508051" expanded="true" signature="89:162" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/MappingProfile.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508051" expanded="false" signature="6:240" ph="..." />
+            <marker date="1721141508051" expanded="true" signature="320:687" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="350:685" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/CustomSchemaFilters.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508051" expanded="false" signature="6:72" ph="..." />
+            <marker date="1721141508051" expanded="true" signature="163:461" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="238:459" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/BaseResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" column="24" selection-start-line="11" selection-start-column="24" selection-end-line="11" selection-end-column="24" />
+          <folding>
+            <marker date="1721141508051" expanded="true" signature="56:121" ph="/// Base class used by API responses ... " />
+            <marker date="1721141508051" expanded="true" signature="170:323" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="225:282" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="309:321" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/AuthEndpoints/AuthenticateEndpoint.AuthenticateResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="484">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+          <folding>
+            <marker date="1721141508051" expanded="true" signature="118:572" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="194:206" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="241:253" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/fff5f83fe77b41208fcb86fc8e8087021dc400/28/899bde34/ActionResult`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret line="14" column="22" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+          <folding>
+            <marker date="1721144149947" expanded="false" signature="0:356" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1721144149947" expanded="false" signature="364:488" ph="..." />
+            <marker date="1721144149947" expanded="true" signature="541:2205" ph="{...}" />
+            <marker date="1721144149947" expanded="true" signature="611:2203" ph="{...}" />
+            <marker date="1721144149947" expanded="true" signature="701:1000" ph="{...}" />
+            <marker date="1721144149947" expanded="true" signature="1046:1399" ph="{...}" />
+            <marker date="1721144149947" expanded="true" signature="1548:1606" ph="{...}" />
+            <marker date="1721144149947" expanded="true" signature="1685:1744" ph="{...}" />
+            <marker date="1721144149947" expanded="true" signature="1818:2199" ph="{...}" />
+            <marker date="1721144149947" expanded="true" signature="2108:2192" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/9e00d2d5173e44199b6eaefaf0d2a26b81200/24/06c03148/SignInManager`1.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="21" column="7" selection-start-line="21" selection-start-column="7" selection-end-line="21" selection-end-column="7" />
+          <folding>
+            <marker date="1721144179311" expanded="false" signature="0:362" ph="// Decompiled with JetBrains decompiler..." />
+            <marker date="1721144179311" expanded="true" signature="370:768" ph="..." />
+            <marker date="1721144179311" expanded="true" signature="826:28915" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="884:28913" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="1708:2294" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="2680:2896" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="2696:2854" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="2981:3050" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="3113:3380" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="3444:4497" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="3615:3781" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="3958:4137" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="4559:5344" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="5008:5221" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="5449:5783" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="5939:6398" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="6060:6280" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="6532:6876" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="7049:7511" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="7557:7989" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="8083:8518" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="8621:9113" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="9213:9595" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="9278:9569" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="9372:9538" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="9756:10171" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="10337:10578" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="10719:12034" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="10993:11568" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="11395:11523" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="11737:11994" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="12116:12616" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="12688:12942" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="12897:12934" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="12996:13093" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="13192:13608" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="13832:14785" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="14472:14655" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="14957:15877" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="15580:15837" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="16038:16920" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="16623:16880" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="16997:17211" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="17355:17460" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="17638:18012" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="18154:18403" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="18509:19902" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="20029:20903" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="20243:20860" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="20542:20820" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="21093:21435" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="21195:21238" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="21529:21986" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="22060:22848" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="22430:22659" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="22921:23233" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="23420:24790" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="23609:24337" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="23690:24329" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="23807:23887" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="23996:24270" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="24615:24660" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="24915:25878" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="25700:25871" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="25963:26128" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="26192:26357" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="26433:26623" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="26682:26974" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="27071:27740" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="27386:27622" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="27684:27734" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="27802:28454" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="28001:28448" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="28021:28440" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="28184:28387" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="28551:28909" ph="{...}" />
+            <marker date="1721144179311" expanded="true" signature="28887:28903" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/AuthEndpoints/AuthenticateEndpoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="543">
+          <caret line="58" selection-start-line="58" selection-end-line="58" />
+          <folding>
+            <marker date="1721141508051" expanded="false" signature="6:295" ph="..." />
+            <marker date="1721141508051" expanded="true" signature="352:405" ph="/// Authenticates a user ... " />
+            <marker date="1721141508051" expanded="true" signature="541:2226" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="800:902" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="943:1140" ph="[...]" />
+            <marker date="1721141508051" expanded="true" signature="1303:2224" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="1393:1683" ph="// This doesn't count login failures towards account lockout ... " />
+            <marker date="1721141508051" expanded="true" signature="2084:2192" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/CatalogItemEndpoints/CatalogItemGetByIdEndpoint.GetByIdCatalogItemResponse.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508051" expanded="true" signature="131:333" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="213:225" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="266:278" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ApplicationCore/Interfaces/IRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+          <folding>
+            <marker date="1721141508041" expanded="true" signature="172:176" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Infrastructure/Data/EfRepository.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <marker date="1721144664691" expanded="false" signature="6:101" ph="..." />
+            <marker date="1721144664691" expanded="true" signature="270:363" ph="{...}" />
+            <marker date="1721144664691" expanded="true" signature="340:361" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/22e932ac9e55b2b7e856dc8b8f9f5c652a69c5938bcd7b3fff66920a02c37/IReadRepositoryBase.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="139" column="14" selection-start-line="139" selection-start-column="14" selection-end-line="139" selection-end-column="14" />
+          <folding>
+            <marker date="1721144686607" expanded="false" signature="6:101" ph="..." />
+            <marker date="1721144686607" expanded="true" signature="134:9267" ph="{...}" />
+            <marker date="1721144686607" expanded="true" signature="139:510" ph="/// &lt;para&gt; ... " />
+            <marker date="1721144686607" expanded="true" signature="568:9265" ph="{...}" />
+            <marker date="1721144686607" expanded="true" signature="577:1060" ph="/// Finds an entity with the given primary key value. ... " />
+            <marker date="1721144686607" expanded="true" signature="1173:1573" ph="/// Finds an entity that matches the encapsulated query logic of the &lt;paramref name=&quot;specification&quot;/&gt;. ... " />
+            <marker date="1721144686607" expanded="true" signature="1703:2152" ph="/// Finds an entity that matches the encapsulated query logic of the &lt;paramref name=&quot;specification&quot;/&gt;. ... " />
+            <marker date="1721144686607" expanded="true" signature="2306:2839" ph="/// Returns the first element of a sequence, or a default value if the sequence contains no elements. ... " />
+            <marker date="1721144686607" expanded="true" signature="2959:3498" ph="/// Returns the first element of a sequence, or a default value if the sequence contains no elements. ... " />
+            <marker date="1721144686607" expanded="true" signature="3642:4245" ph="/// Returns the only element of a sequence, or a default value if the sequence is empty; this method throws an exc ... " />
+            <marker date="1721144686607" expanded="true" signature="4378:4987" ph="/// Returns the only element of a sequence, or a default value if the sequence is empty; this method throws an exc ... " />
+            <marker date="1721144686607" expanded="true" signature="5144:5453" ph="/// Finds all entities of &lt;typeparamref name=&quot;T&quot; /&gt; from the database. ... " />
+            <marker date="1721144686607" expanded="true" signature="5535:6010" ph="/// Finds all entities of &lt;typeparamref name=&quot;T&quot; /&gt;, that matches the encapsulated query logic of the ... " />
+            <marker date="1721144686607" expanded="true" signature="6125:6818" ph="/// Finds all entities of &lt;typeparamref name=&quot;T&quot; /&gt;, that matches the encapsulated query logic of the ... " />
+            <marker date="1721144686607" expanded="true" signature="6957:7383" ph="/// Returns a number that represents how many entities satisfy the encapsulated query logic ... " />
+            <marker date="1721144686607" expanded="true" signature="7495:7747" ph="/// Returns the total number of records. ... " />
+            <marker date="1721144686607" expanded="true" signature="7826:8285" ph="/// Returns a boolean that represents whether any entity satisfy the encapsulated query logic ... " />
+            <marker date="1721144686607" expanded="true" signature="8396:8687" ph="/// Returns a boolean whether any entity exists or not. ... " />
+            <marker date="1721144686607" expanded="true" signature="8788:9178" ph="//  Finds all entities of &lt;typeparamref name=&quot;T&quot; /&gt;, that matches the encapsulated query logic of the ... " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/PublicApi/CatalogItemEndpoints/CreateCatalogItemEndpoint.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="235">
+          <caret line="46" column="61" selection-start-line="46" selection-start-column="61" selection-end-line="46" selection-end-column="61" />
+          <folding>
+            <marker date="1721141508051" expanded="true" signature="6:470" ph="..." />
+            <marker date="1721141508051" expanded="true" signature="534:593" ph="/// Creates a new Catalog Item ... " />
+            <marker date="1721141508051" expanded="true" signature="705:3258" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="819:867" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="920:1419" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="1232:1314" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="1538:3256" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="1851:1971" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="2216:2762" ph="{...}" />
+            <marker date="1721141508051" expanded="true" signature="2239:2629" ph="// We disabled the upload functionality and added a default/placeholder image to this sample due to a potential s ... " />
+            <marker date="1721141508051" expanded="true" signature="2809:3140" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ApplicationCore/Services/OrderService.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-374">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <marker date="1721141508041" expanded="false" signature="6:370" ph="..." />
+            <marker date="1721141508041" expanded="true" signature="469:2205" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="890:1070" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="1149:2203" ph="{...}" />
+            <marker date="1721141508041" expanded="true" signature="1696:2065" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

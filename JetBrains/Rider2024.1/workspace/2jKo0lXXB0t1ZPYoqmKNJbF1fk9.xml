@@ -1,0 +1,272 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="eShop" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="DatabaseView">
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="2xdge879idrmp">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider editor-type-id="split-provider[text-editor;markdown-preview-editor]" selected="true">
+            <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+              <first_editor />
+              <second_editor />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/src/Basket.API/Extensions/Extensions.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <marker date="1721144890847" expanded="true" signature="6:193" ph="..." />
+                <marker date="1721144890847" expanded="true" signature="265:802" ph="{...}" />
+                <marker date="1721144890847" expanded="true" signature="351:800" ph="{...}" />
+                <marker date="1721144890847" expanded="true" signature="922:927" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/.editorconfig">
+          <provider editor-type-id="org.editorconfig.configmanagement.editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Directory.Packages.props">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file:///usr/share/dotnet/sdk/9.0.100-preview.6.24328.19/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="679">
+              <caret line="272" column="41" selection-start-line="272" selection-start-column="41" selection-end-line="272" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C#": {
+      "usageCount": 1,
+      "lastUsed": 1721144961960
+    },
+    "EditorConfig": {
+      "usageCount": 1,
+      "lastUsed": 1721145242649
+    },
+    "Markdown": {
+      "usageCount": 1,
+      "lastUsed": 1721144910644
+    },
+    "MsBuild targets file": {
+      "usageCount": 1,
+      "lastUsed": 1721145285672
+    },
+    "Project file properties": {
+      "usageCount": 1,
+      "lastUsed": 1721145255373
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/src/Basket.API/Extensions/Extensions.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.eShop/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="1" lastUsage="1721144961960" />
+    </language>
+    <language id="EditorConfig">
+      <summary usageCount="1" lastUsage="1721145242649" />
+    </language>
+    <language id="MSBuild">
+      <summary usageCount="2" lastUsage="1721145285672" />
+    </language>
+    <language id="Markdown">
+      <summary usageCount="1" lastUsage="1721144910646" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="eShop" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="eShop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution Items" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="eShop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="eShop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Basket.API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="eShop" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Basket.API" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="eShop" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="eShop" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="eShop.Web.slnf" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </select>
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="695000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.14747635" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.09542587" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.29717898" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.2975728" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.29759616" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.29717898" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.29717898" />
+      <window_info anchor="bottom" id="EF Core" order="4" weight="0.29717898" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="Monitoring" order="4" visible="true" weight="0.33009452" />
+      <unified_weights bottom="0.29717898" left="0.14747635" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Project</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="469" y="207" key="SettingsEditor" timestamp="1721145220434">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="207" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1721145220434" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SHOW_PREVIEW" is_vertical_split="false">
+          <first_editor />
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.editorconfig">
+      <provider selected="true" editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Directory.Packages.props">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file:///usr/share/dotnet/sdk/9.0.100-preview.6.24328.19/Sdks/Microsoft.NET.Sdk/targets/Microsoft.PackageDependencyResolution.targets">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="679">
+          <caret line="272" column="41" selection-start-line="272" selection-start-column="41" selection-end-line="272" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Basket.API/Extensions/Extensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <marker date="1721144890847" expanded="true" signature="6:193" ph="..." />
+            <marker date="1721144890847" expanded="true" signature="265:802" ph="{...}" />
+            <marker date="1721144890847" expanded="true" signature="351:800" ph="{...}" />
+            <marker date="1721144890847" expanded="true" signature="922:927" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

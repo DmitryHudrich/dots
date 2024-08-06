@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Projects/Quotes" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1/.idea/.idea.ConsoleApp1" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

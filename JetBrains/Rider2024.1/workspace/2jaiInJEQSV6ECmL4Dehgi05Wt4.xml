@@ -1,0 +1,444 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="BebraBay" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1yox982zakx1t" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="154">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BebraBay.Api/WebApplication1.http">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="132">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BebraBay.Api/Program.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="374">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
+              <folding>
+                <marker date="1721632529188" expanded="true" signature="51:173" ph="// Add services to the container. ... " />
+                <marker date="1721632529188" expanded="true" signature="357:407" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/BebraBay.Api/Domain/User.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="88">
+              <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$USER_HOME$/.ideavimrc">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="902">
+              <caret line="41" selection-start-line="41" selection-end-line="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/global.json">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/BebraBay.Api/Dockerfile">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C#": {
+      "usageCount": 9,
+      "lastUsed": 1721768731618
+    },
+    "Dockerfile": {
+      "usageCount": 6,
+      "lastUsed": 1721768736359
+    },
+    "HTTP Request": {
+      "usageCount": 5,
+      "lastUsed": 1721768730680
+    },
+    "YAML": {
+      "usageCount": 5,
+      "lastUsed": 1721768729252
+    },
+    "JSON": {
+      "usageCount": 4,
+      "lastUsed": 1721768736003
+    },
+    "textmate": {
+      "usageCount": 4,
+      "lastUsed": 1721768735554
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/docker-compose.yml" />
+      <option value="$PROJECT_DIR$/BebraBay.Api/WebApplication1.http" />
+      <option value="$PROJECT_DIR$/BebraBay.Api/Program.cs" />
+      <option value="$USER_HOME$/.ideavimrc" />
+      <option value="$PROJECT_DIR$/BebraBay.Api/Domain/User.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.BebraBay/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="9" lastUsage="1721768731618" />
+    </language>
+    <language id="Dockerfile">
+      <summary usageCount="6" lastUsage="1721768736359" />
+    </language>
+    <language id="HTTP Request">
+      <summary usageCount="5" lastUsage="1721768730680" />
+    </language>
+    <language id="JSON">
+      <summary usageCount="4" lastUsage="1721768736003" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="4" lastUsage="1721768735554" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="5" lastUsage="1721768729252" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BebraBay" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BebraBay" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="BebraBay" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="BebraBay" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="BebraBay.Api" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="BebraBay" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="BebraBay.Api" type="34e6ba20:FileSystemExplorerNode" />
+              <item name="obj" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </select>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info anchor="bottom" id="Build" order="4" sideWeight="0.5002747" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="1" weight="0.22581494" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Debug">
+          <value>
+            <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.5002747" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Endpoints">
+          <value>
+            <window_info anchor="right" id="Endpoints" order="4" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Monitoring">
+          <value>
+            <window_info anchor="right" id="Monitoring" order="4" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="NuGet">
+          <value>
+            <window_info anchor="bottom" id="NuGet" order="4" sideWeight="0.5002747" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.17849633" />
+          </value>
+        </entry>
+        <entry key="Pull Requests">
+          <value>
+            <window_info id="Pull Requests" order="2" weight="0.22581494" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info anchor="bottom" id="Run" order="4" sideWeight="0.44093406" weight="0.48686773" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="5" sideWeight="0.55906594" side_tool="true" weight="0.12791827" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.08964248" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.5002747" weight="0.48686773" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5002747" weight="0.48686773" />
+          </value>
+        </entry>
+        <entry key="dotMemory Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.297081" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.BebraBay.Api" />
+    </history>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand>
+              <path>
+                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
+                <item name="HTTP Request" type="7427dc5b:ServiceModel$ServiceGroupNode" />
+              </path>
+            </expand>
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="1728000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.17849633" />
+      <window_info id="Commit" order="1" weight="0.22581494" />
+      <window_info id="Pull Requests" order="2" weight="0.22581494" />
+      <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.08964248" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5002747" weight="0.48686773" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.5002747" weight="0.48686773" />
+      <window_info anchor="bottom" id="Run" order="4" sideWeight="0.44093406" weight="0.48686773" />
+      <window_info anchor="bottom" id="NuGet" order="4" sideWeight="0.5002747" weight="0.33803502" />
+      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.5002747" weight="0.33803502" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.297081" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.5002747" weight="0.33803502" />
+      <window_info anchor="bottom" id="Services" order="5" sideWeight="0.55906594" side_tool="true" weight="0.12791827" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32991588" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32991588" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="4" weight="0.32991588" />
+      <window_info anchor="right" id="Monitoring" order="4" weight="0.32991588" />
+      <unified_weights bottom="0.12791827" left="0.17849633" right="0.32991588" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1820" height="458" key="GridCell.Tab.0.bottom" timestamp="1721632143491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="458" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1721632143491" />
+    <state width="1820" height="458" key="GridCell.Tab.0.center" timestamp="1721632143491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="458" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1721632143491" />
+    <state width="1820" height="458" key="GridCell.Tab.0.left" timestamp="1721632143491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="458" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1721632143491" />
+    <state width="1820" height="458" key="GridCell.Tab.0.right" timestamp="1721632143491">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="458" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1721632143491" />
+    <state x="510" y="231" key="Rider.NewProjectDialog.Size" timestamp="1721631952154">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="510" y="231" key="Rider.NewProjectDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1721631952154" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1721632657651">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721632657651" />
+    <state x="623" y="258" key="search.everywhere.popup" timestamp="1721632296860">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="258" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721632296860" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BebraBay.Api/WebApplication1.http">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="132">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BebraBay.Api/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <marker date="1721632529188" expanded="true" signature="51:173" ph="// Add services to the container. ... " />
+            <marker date="1721632529188" expanded="true" signature="357:407" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="902">
+          <caret line="41" selection-start-line="41" selection-end-line="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/global.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BebraBay.Api/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BebraBay.Api/Domain/User.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="88">
+          <caret line="4" column="16" selection-start-line="4" selection-start-column="16" selection-end-line="4" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

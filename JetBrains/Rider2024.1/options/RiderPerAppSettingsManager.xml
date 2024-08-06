@@ -1,0 +1,10 @@
+<application>
+  <component name="RiderPerAppSettingsManager">
+    <option name="enabledBlacklistToolWindowsId">
+      <set>
+        <option value="dotMemory Profiler" />
+      </set>
+    </option>
+    <option name="toolWindowsPerApp" value="true" />
+  </component>
+</application>

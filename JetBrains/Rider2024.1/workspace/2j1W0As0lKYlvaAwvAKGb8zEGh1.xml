@@ -1,0 +1,165 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ZazaPassages" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1i0fyq6o0pote">
+      <file>
+        <entry file="file://$PROJECT_DIR$/ZazaPassages/Program.fs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="66">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ZazaPassages/Dockerfile">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Dockerfile": {
+      "usageCount": 1,
+      "lastUsed": 1720554850315
+    },
+    "F#": {
+      "usageCount": 1,
+      "lastUsed": 1720554848630
+    },
+    "YAML": {
+      "usageCount": 1,
+      "lastUsed": 1720554866725
+    }
+  }
+}]]></component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$PROJECT_DIR$/ZazaPassages/Program.fs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.ZazaPassages/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="1" lastUsage="1720554850315" />
+    </language>
+    <language id="F#">
+      <summary usageCount="1" lastUsage="1720554848633" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="1" lastUsage="1720554866725" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ZazaPassages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ZazaPassages" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ZazaPassages" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="512000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.17942709" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" />
+      <window_info anchor="bottom" id="Terminal" order="3" />
+      <window_info anchor="bottom" id="Services" order="4" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.32184464" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" visible="true" weight="0.3091346" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <unified_weights bottom="0.3091346" left="0.17942709" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>dotMemory Profiler</value>
+      <value>Project</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="739" y="275" width="427" height="488" key="FileChooserDialogImpl" timestamp="1720555302014">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="739" y="275" width="427" height="488" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1720555302014" />
+    <state x="650" y="224" key="Rider.InstallTemplatesDialog.Size" timestamp="1720555336640">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="650" y="224" key="Rider.InstallTemplatesDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1720555336640" />
+    <state x="505" y="179" width="903" height="681" key="Rider.NewProjectDialog.Size" timestamp="1720555350790">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="505" y="179" width="903" height="681" key="Rider.NewProjectDialog.Size/0.0.1920.1040@0.0.1920.1040" timestamp="1720555350790" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ZazaPassages/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ZazaPassages/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="66">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

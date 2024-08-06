@@ -1,0 +1,356 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="ConsoleApp7" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1i0fyq6o0pote" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp7/Program.fs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="748">
+              <caret line="34" selection-start-line="34" selection-end-line="34" />
+              <folding>
+                <marker date="1720822065314" expanded="true" signature="0:115" ph="..." />
+                <marker date="1720822065314" expanded="true" signature="1540:1546" ph=" = ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/.editorconfig">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="44">
+              <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+            </state>
+          </provider>
+          <provider editor-type-id="org.editorconfig.configmanagement.editor" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/ConsoleApp7/Dockerfile">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+          <provider editor-type-id="text-editor" selected="true" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "Dockerfile": {
+      "usageCount": 2,
+      "lastUsed": 1720914917659
+    },
+    "textmate": {
+      "usageCount": 1,
+      "lastUsed": 1720618668455
+    },
+    "F#": {
+      "usageCount": 2,
+      "lastUsed": 1720914917081
+    },
+    "YAML": {
+      "usageCount": 2,
+      "lastUsed": 1720914918602
+    },
+    "EditorConfig": {
+      "usageCount": 1,
+      "lastUsed": 1720914916701
+    }
+  }
+}]]></component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$APPLICATION_CONFIG_DIR$/scratches/scratch.editorconfig" />
+      <option value="$PROJECT_DIR$/ConsoleApp7/Program.fs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.ConsoleApp7/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Dockerfile">
+      <summary usageCount="2" lastUsage="1720914917659" />
+    </language>
+    <language id="EditorConfig">
+      <summary usageCount="1" lastUsage="1720914916704" />
+    </language>
+    <language id="F#">
+      <summary usageCount="2" lastUsage="1720914917081" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="1" lastUsage="1720618668455" />
+    </language>
+    <language id="yaml">
+      <summary usageCount="2" lastUsage="1720914918602" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp7" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp7" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="Solution Items" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp7" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="ConsoleApp7" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="Scratches and Consoles" type="b85a3e1f:ScratchTreeStructureProvider$MyProjectNode" />
+              <item name="Scratches" type="783a8411:ScratchTreeStructureProvider$MyRootNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="ConsoleApp7" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.29717898" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="1" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Endpoints">
+          <value>
+            <window_info anchor="right" id="Endpoints" order="4" weight="0.32994792" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Monitoring">
+          <value>
+            <window_info anchor="right" id="Monitoring" order="4" visible="true" weight="0.33009452" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.14747635" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.2975728" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="4" weight="0.29759616" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.09542587" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info anchor="bottom" id="Terminal" order="3" weight="0.2975728" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" />
+          </value>
+        </entry>
+        <entry key="dotMemory Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.29759616" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.ConsoleApp7" />
+    </history>
+  </component>
+  <component name="RunToolbarDotProfilerSettings">
+    <slotIdToConfigurationId>
+      <entry key="ConsoleApp7" value="3a8030e0-5b0f-4df1-a30a-d3e471630ee4" />
+    </slotIdToConfigurationId>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/ConsoleApp7">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3773000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.14747635" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.09542587" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2975728" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.2975728" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.29759616" />
+      <window_info active="true" anchor="bottom" id="Build" order="4" visible="true" weight="0.29717898" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.29759616" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="Monitoring" order="4" visible="true" weight="0.33009452" />
+      <unified_weights bottom="0.29717898" left="0.14747635" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1822" height="264" key="GridCell.Tab.0.bottom" timestamp="1720619721390">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1822" height="264" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1720619721390" />
+    <state width="1822" height="264" key="GridCell.Tab.0.center" timestamp="1720619721390">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1822" height="264" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1720619721390" />
+    <state width="1822" height="264" key="GridCell.Tab.0.left" timestamp="1720619721390">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1822" height="264" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1720619721390" />
+    <state width="1822" height="264" key="GridCell.Tab.0.right" timestamp="1720619721390">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1822" height="264" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1720619721390" />
+    <state x="698" y="278" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1720618684831">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="278" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1720618684831" />
+    <state x="623" y="257" width="686" height="713" key="search.everywhere.popup" timestamp="1720616817510">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="257" width="686" height="713" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1720616817510" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/ConsoleApp7/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" selection-start-line="34" selection-end-line="34" />
+          <folding>
+            <marker date="1720822065314" expanded="true" signature="0:115" ph="..." />
+            <marker date="1720822065314" expanded="true" signature="1540:1546" ph=" = ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/ConsoleApp7/Dockerfile">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/scratches/.editorconfig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="44">
+          <caret line="2" column="2" selection-start-line="2" selection-start-column="2" selection-end-line="2" selection-end-column="2" />
+        </state>
+      </provider>
+      <provider editor-type-id="org.editorconfig.configmanagement.editor" />
+    </entry>
+  </component>
+</project>

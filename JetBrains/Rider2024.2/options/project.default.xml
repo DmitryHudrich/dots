@@ -1,0 +1,17 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="Encoding" addBOMForNewFiles="with BOM under Windows, with no BOM otherwise" />
+      <component name="WindowStateProjectService">
+        <state x="238" y="96" key="FileChooserDialogImpl" timestamp="1721045022983">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="238" y="96" key="FileChooserDialogImpl/0.0.1920.1080" timestamp="1721045022983" />
+        <state x="505" y="128" width="900" height="681" key="Rider.NewProjectDialog.Size" timestamp="1721045081886">
+          <screen x="0" y="0" width="1920" height="1080" />
+        </state>
+        <state x="505" y="128" width="900" height="681" key="Rider.NewProjectDialog.Size/0.0.1920.1080" timestamp="1721045081886" />
+      </component>
+    </defaultProject>
+  </component>
+</application>

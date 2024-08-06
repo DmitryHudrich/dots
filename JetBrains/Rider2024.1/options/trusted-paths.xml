@@ -1,0 +1,33 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/Projects/BebraDb" value="true" />
+        <entry key="$USER_HOME$/Projects/Quotes" value="true" />
+        <entry key="$USER_HOME$/Projects/Quotes/.idea/.idea.Quotes" value="true" />
+        <entry key="$USER_HOME$/Projects/RabbitMqTest" value="true" />
+        <entry key="$USER_HOME$/Projects/RabbitMqTest/.idea/.idea.RabbitMqTest.dir" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/App1" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/App1/.idea/.idea.App1" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/BebraBay" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/BebraBay/.idea/.idea.BebraBay" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/BebraHelper" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/BebraHelper/.idea/.idea.AskaHelper" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/BebraHelper/.idea/.idea.BebraHelper" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp1/.idea/.idea.ConsoleApp1" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp10" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp10/.idea/.idea.ConsoleApp10" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp5" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp5/.idea/.idea.ConsoleApp5" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp6" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp6/.idea/.idea.ConsoleApp6" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp7" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp7/.idea/.idea.ConsoleApp7" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp8" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ConsoleApp8/.idea/.idea.ConsoleApp8" value="true" />
+        <entry key="$USER_HOME$/RiderProjects/ZazaPassages" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

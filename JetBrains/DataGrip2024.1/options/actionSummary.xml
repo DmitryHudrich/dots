@@ -1,0 +1,142 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="Console.File.Resolve.Mode">
+      <i c="4" l="1720889134864" />
+    </e>
+    <e n="Console.Jdbc.Execute">
+      <i c="5" l="1720889083873" />
+    </e>
+    <e n="Console.TableResult.AddRow">
+      <i c="1" l="1720890281704" />
+    </e>
+    <e n="Console.TableResult.Submit">
+      <i c="1" l="1720890305319" />
+    </e>
+    <e n="Console.Toggle.Notebook.Mode">
+      <i c="2" l="1720806991466" />
+    </e>
+    <e n="Console.Transaction.TxSettings">
+      <i c="1" l="1720806280560" />
+    </e>
+    <e n="DatabaseView.AddActionGroupPopup">
+      <i c="2" l="1720820185977" />
+    </e>
+    <e n="DatabaseView.Ddl.AlterObject">
+      <i c="1" l="1720820864046" />
+    </e>
+    <e n="DatabaseView.DeactivateAction">
+      <i c="1" l="1720889332214" />
+    </e>
+    <e n="DatabaseView.PropertiesAction">
+      <i c="5" l="1720889460968" />
+    </e>
+    <e n="DatabaseView.Refresh">
+      <i c="6" l="1720889456813" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="356" l="1720890301305" />
+    </e>
+    <e n="EditorChooseLookupItem">
+      <i c="30" l="1720889115222" />
+    </e>
+    <e n="EditorCopy">
+      <i c="1" l="1720823470632" />
+    </e>
+    <e n="EditorDeleteToWordStart">
+      <i c="3" l="1720888961979" />
+    </e>
+    <e n="EditorDown">
+      <i c="10" l="1720889078732" />
+    </e>
+    <e n="EditorEnter">
+      <i c="9" l="1720889108603" />
+    </e>
+    <e n="EditorEscape">
+      <i c="4" l="1720889015089" />
+    </e>
+    <e n="EditorLeft">
+      <i c="3" l="1720888742618" />
+    </e>
+    <e n="EditorRight">
+      <i c="89" l="1720889082088" />
+    </e>
+    <e n="EditorStartNewLine">
+      <i c="3" l="1720888759081" />
+    </e>
+    <e n="EditorUp">
+      <i c="11" l="1720889079311" />
+    </e>
+    <e n="Jdbc.OpenConsole.New.Generate">
+      <i c="2" l="1720888781323" />
+    </e>
+    <e n="PasteMultiple">
+      <i c="1" l="1720821584805" />
+    </e>
+    <e n="QueryExecution.Settings">
+      <i c="1" l="1720806992051" />
+    </e>
+    <e n="RenameElement">
+      <i c="2" l="1720888820019" />
+    </e>
+    <e n="ToggleLineBreakpoint">
+      <i c="2" l="1720889122880" />
+    </e>
+    <e n="WelcomeScreen.OpenDirectoryProject">
+      <i c="1" l="1720806142142" />
+    </e>
+    <e n="com.intellij.database.actions.ddl.CreateObjectGroup$Public$2">
+      <i c="11" l="1720890275041" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$2">
+      <i c="1" l="1720820054805" />
+    </e>
+    <e n="com.intellij.database.dataSource.LocalDataSourceManager$3">
+      <i c="1" l="1720806175960" />
+    </e>
+    <e n="com.intellij.database.dataSource.url.ui.DynamicJdbcUrlEditor$5">
+      <i c="1" l="1720806207722" />
+    </e>
+    <e n="com.intellij.database.run.ui.DescriptionPopup$MyCheckBoxAdapter">
+      <i c="2" l="1720889138567" />
+    </e>
+    <e n="com.intellij.database.run.ui.grid.editors.GridCellEditorTextField$3">
+      <i c="3" l="1720890300026" />
+    </e>
+    <e n="com.intellij.database.schemaEditor.ui.DbCreateObjectAction">
+      <i c="15" l="1720888685971" />
+    </e>
+    <e n="com.intellij.database.schemaEditor.ui.DbDuplicateObjectAction">
+      <i c="1" l="1720820824317" />
+    </e>
+    <e n="com.intellij.database.schemaEditor.ui.DbGenNameEditor$2">
+      <i c="1" l="1720820442248" />
+    </e>
+    <e n="com.intellij.database.schemaEditor.ui.DbStructureEditorActions$CreateObjectGroup">
+      <i c="4" l="1720807169305" />
+    </e>
+    <e n="com.intellij.database.schemaEditor.ui.DbStructureEditorActions$DeleteAction">
+      <i c="1" l="1720806976540" />
+    </e>
+    <e n="com.intellij.openapi.editor.impl.EditorMarkupModelImpl$TrafficLightAction">
+      <i c="1" l="1720821559568" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1720806917228" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="1" l="1720888634030" />
+    </e>
+    <e n="com.intellij.openapi.ui.impl.DialogWrapperPeerImpl$AnCancelAction">
+      <i c="1" l="1720806995270" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="1" l="1720806159154" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1720806157690" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="4" l="1720888678970" />
+    </e>
+  </component>
+</application>

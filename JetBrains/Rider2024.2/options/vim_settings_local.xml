@@ -1,0 +1,86 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd />
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="$USER_HOME$/RiderProjects/ConsoleApp1">
+      <jump line="3" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="1" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="7" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="4" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="0" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="6" column="1" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="5" column="4" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+      <jump line="2" column="0" filename="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="/debugger_visualizers" timestamp="1720553677071">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Immediate Window" timestamp="1720553809142">
+        <mark key="&quot;" line="0" column="0" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/RiderProjects/ConsoleApp1/ConsoleApp1/Program.cs" timestamp="1720969370543">
+        <mark key="[" line="4" column="1" />
+        <mark key="]" line="5" column="4" />
+        <mark key="." line="5" column="3" />
+        <mark key="^" line="5" column="4" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">ICAgIGFzZHNhZGFrZHNmaGFrbHNkaGZrbGFzaGRsa2ZhaHNka2xmaGFzamhka2ZqaGFza2xoZ2xrYXNoZGtnaGdhCg==</text>
+      </register>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">ICAgIGFzZHNhZGFrZHNmaGFrbHNkaGZrbGFzaGRsa2ZhaHNka2xmaGFzamhka2ZqaGFza2xoZ2xrYXNoZGtnaGdhCg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">YXNkYXNkaGZsa2FzaGRnbGthaHNkbGtnaGFsa3NkaGdsa2FzaGRsa2doYWxrc2RoZ2xrYWhzbGtkZ2gK</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">YXNkCg==</text>
+      </register>
+      <register name="4" type="LINE_WISE">
+        <text encoding="base64">ICAgIGludAo=</text>
+      </register>
+      <register name="5" type="CHARACTER_WISE">
+        <text encoding="base64">dXNpbmcgU3lzdGVtLlJ1bnRpbWUuSW50ZXJvcFNlcnZpY2VzOwo=</text>
+      </register>
+      <register name="6" type="LINE_WISE">
+        <text encoding="base64">CkhhbmRsZVJlZgo=</text>
+      </register>
+      <register name="7" type="CHARACTER_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="LINE_WISE">
+        <text encoding="base64">CnZhciBhID0gImFhc2QiOwo=</text>
+      </register>
+      <register name="9" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">ZA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64">aw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables />
+  </component>
+</application>

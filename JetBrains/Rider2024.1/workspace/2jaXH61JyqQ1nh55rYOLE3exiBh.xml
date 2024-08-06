@@ -1,0 +1,364 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="RabbitMqTest" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1yox982zakx1t" SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/RabbitMqTest.Consumer/Program.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="171">
+              <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+              <folding>
+                <marker date="1721628663329" expanded="true" signature="71:136" ph="..." />
+                <marker date="1721628663329" expanded="true" signature="566:703" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file>
+        <entry file="file://$PROJECT_DIR$/RabbitMqTest.Publisher/Program.cs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="286">
+              <caret line="13" selection-start-line="13" selection-end-line="13" />
+              <folding>
+                <marker date="1721628388342" expanded="true" signature="6:41" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file current-in-tab="false">
+        <entry file="file://$USER_HOME$/.ideavimrc">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "C#": {
+      "usageCount": 9,
+      "lastUsed": 1721628354658
+    },
+    "textmate": {
+      "usageCount": 8,
+      "lastUsed": 1721628047605
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="GitSEFilterConfiguration">{}</component>
+  <component name="IdeDocumentHistory">
+    <changedPaths>
+      <option value="$USER_HOME$/.ideavimrc" />
+      <option value="$PROJECT_DIR$/RabbitMqTest.Consumer/Program.cs" />
+      <option value="$PROJECT_DIR$/RabbitMqTest.Publisher/Program.cs" />
+    </changedPaths>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.RabbitMqTest.dir/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="C#">
+      <summary usageCount="9" lastUsage="1721628354658" />
+    </language>
+    <language id="textmate">
+      <summary usageCount="8" lastUsage="1721628047614" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RabbitMqTest.Consumer" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="RabbitMqTest.Publisher" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="RiderPerAppToolWindowOpenedTWKeeper">
+    <option name="map">
+      <map>
+        <entry key="AIAssistant">
+          <value>
+            <window_info anchor="right" id="AIAssistant" order="1" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Build">
+          <value>
+            <window_info anchor="bottom" id="Build" order="4" sideWeight="0.5002747" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Commit">
+          <value>
+            <window_info id="Commit" order="1" weight="0.22581494" />
+          </value>
+        </entry>
+        <entry key="Database">
+          <value>
+            <window_info anchor="right" id="Database" order="2" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Debug">
+          <value>
+            <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.5002747" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Endpoints">
+          <value>
+            <window_info anchor="right" id="Endpoints" order="4" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Gradle">
+          <value>
+            <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Maven">
+          <value>
+            <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="Monitoring">
+          <value>
+            <window_info anchor="right" id="Monitoring" order="4" weight="0.32991588" />
+          </value>
+        </entry>
+        <entry key="Notifications">
+          <value>
+            <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+          </value>
+        </entry>
+        <entry key="NuGet">
+          <value>
+            <window_info anchor="bottom" id="NuGet" order="4" sideWeight="0.5002747" weight="0.3011639" />
+          </value>
+        </entry>
+        <entry key="Problems">
+          <value>
+            <window_info anchor="bottom" id="Problems" order="1" />
+          </value>
+        </entry>
+        <entry key="Problems View">
+          <value>
+            <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+          </value>
+        </entry>
+        <entry key="Project">
+          <value>
+            <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.08964248" />
+          </value>
+        </entry>
+        <entry key="Pull Requests">
+          <value>
+            <window_info id="Pull Requests" order="2" weight="0.22581494" />
+          </value>
+        </entry>
+        <entry key="Run">
+          <value>
+            <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" sideWeight="0.44093406" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Services">
+          <value>
+            <window_info anchor="bottom" id="Services" order="5" sideWeight="0.49972528" side_tool="true" weight="0.48686773" />
+          </value>
+        </entry>
+        <entry key="Structure">
+          <value>
+            <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.08964248" />
+          </value>
+        </entry>
+        <entry key="Terminal">
+          <value>
+            <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.5002747" weight="0.33803502" />
+          </value>
+        </entry>
+        <entry key="Version Control">
+          <value>
+            <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5002747" weight="0.48686773" />
+          </value>
+        </entry>
+        <entry key="dotMemory Profiler">
+          <value>
+            <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.297081" />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="RunConfigurationStartHistory">
+    <history>
+      <element setting=".NET Project.RabbitMqTest.Publisher" />
+      <element setting=".NET Project.RabbitMqTest.Consumer" />
+      <element setting="Multi-Launch.Multi-Launch: RabbitMqTest" />
+    </history>
+  </component>
+  <component name="TerminalArrangementManager">
+    <option name="myTabStates">
+      <TerminalTabState tabName="Local" currentWorkingDirectory="$PROJECT_DIR$/RabbitMqTest.Publisher">
+        <shellCommand>
+          <arg value="/usr/bin/zsh" />
+          <arg value="-i" />
+        </shellCommand>
+      </TerminalTabState>
+    </option>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="5052000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.08964248" />
+      <window_info id="Commit" order="1" weight="0.22581494" />
+      <window_info id="Pull Requests" order="2" weight="0.22581494" />
+      <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.08964248" />
+      <window_info anchor="bottom" id="Version Control" order="0" sideWeight="0.5002747" weight="0.48686773" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+      <window_info anchor="bottom" id="Terminal" order="3" sideWeight="0.5002747" weight="0.33803502" />
+      <window_info anchor="bottom" id="Run" order="4" show_stripe_button="false" sideWeight="0.44093406" weight="0.33803502" />
+      <window_info anchor="bottom" id="NuGet" order="4" sideWeight="0.5002747" weight="0.3011639" />
+      <window_info anchor="bottom" id="Build" order="4" sideWeight="0.5002747" weight="0.33803502" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.297081" />
+      <window_info anchor="bottom" id="Debug" order="4" sideWeight="0.5002747" weight="0.33803502" />
+      <window_info anchor="bottom" id="Services" order="5" sideWeight="0.49972528" side_tool="true" weight="0.48686773" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.32991588" />
+      <window_info anchor="right" id="Database" order="2" weight="0.32991588" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="4" weight="0.32991588" />
+      <window_info anchor="right" id="Monitoring" order="4" weight="0.32991588" />
+      <unified_weights bottom="0.33803502" left="0.08964248" right="0.32991588" />
+    </layoutV2>
+    <recentWindows>
+      <value>Terminal</value>
+      <value>Run</value>
+      <value>Project</value>
+      <value>Build</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="560" y="231" width="853" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1721628663295">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="560" y="231" width="853" height="651" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1080@0.0.1920.1080" timestamp="1721628663295" />
+    <state width="1820" height="305" key="GridCell.Tab.0.bottom" timestamp="1721631509703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="305" key="GridCell.Tab.0.bottom/0.0.1920.1080@0.0.1920.1080" timestamp="1721631509703" />
+    <state width="1820" height="305" key="GridCell.Tab.0.center" timestamp="1721631509703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="305" key="GridCell.Tab.0.center/0.0.1920.1080@0.0.1920.1080" timestamp="1721631509703" />
+    <state width="1820" height="305" key="GridCell.Tab.0.left" timestamp="1721631509703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="305" key="GridCell.Tab.0.left/0.0.1920.1080@0.0.1920.1080" timestamp="1721631509703" />
+    <state width="1820" height="305" key="GridCell.Tab.0.right" timestamp="1721631509703">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="1820" height="305" key="GridCell.Tab.0.right/0.0.1920.1080@0.0.1920.1080" timestamp="1721631509703" />
+    <state x="510" y="231" key="Rider.NewProjectDialog.Size" timestamp="1721631506137">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="510" y="231" key="Rider.NewProjectDialog.Size/0.0.1920.1080@0.0.1920.1080" timestamp="1721631506137" />
+    <state x="469" y="207" key="SettingsEditor" timestamp="1721627452374">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="469" y="207" key="SettingsEditor/0.0.1920.1080@0.0.1920.1080" timestamp="1721627452374" />
+    <state x="689" y="306" width="540" height="539" key="StructurePopup" timestamp="1721627762009">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="689" y="306" width="540" height="539" key="StructurePopup/0.0.1920.1080@0.0.1920.1080" timestamp="1721627762009" />
+    <state x="698" y="278" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1721626346572">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="698" y="278" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1080@0.0.1920.1080" timestamp="1721626346572" />
+    <state width="600" height="400" key="javadoc.popup" timestamp="1721627585806">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state width="600" height="400" key="javadoc.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721627585806" />
+    <state x="623" y="258" width="672" height="713" key="search.everywhere.popup" timestamp="1721628445664">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="623" y="258" width="672" height="713" key="search.everywhere.popup/0.0.1920.1080@0.0.1920.1080" timestamp="1721628445664" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/.ideavimrc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMqTest.Consumer/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="19" column="18" selection-start-line="19" selection-start-column="18" selection-end-line="19" selection-end-column="18" />
+          <folding>
+            <marker date="1721628663329" expanded="true" signature="71:136" ph="..." />
+            <marker date="1721628663329" expanded="true" signature="566:703" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/RabbitMqTest.Publisher/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <marker date="1721628388342" expanded="true" signature="6:41" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

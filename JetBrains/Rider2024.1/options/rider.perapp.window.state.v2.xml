@@ -1,0 +1,153 @@
+<application>
+  <component name="RiderPerAppToolWindowLayoutV2"><![CDATA[{
+  "layouts": {
+    "Custom": {
+      "v2": [
+        {
+          "id": "Project",
+          "order": 0,
+          "contentUiType": "COMBO",
+          "isActiveOnStart": true,
+          "isVisible": true,
+          "weight": 0.17849633,
+          "sideWeight": 0.5005219
+        },
+        {
+          "id": "Commit",
+          "order": 1,
+          "weight": 0.22581494
+        },
+        {
+          "id": "Pull Requests",
+          "order": 2,
+          "weight": 0.22581494
+        },
+        {
+          "id": "Structure",
+          "order": 2,
+          "weight": 0.08964248,
+          "sideWeight": 0.49947807,
+          "isSplit": true
+        },
+        {
+          "id": "Version Control",
+          "order": 0,
+          "anchor": "BOTTOM",
+          "weight": 0.48686773,
+          "sideWeight": 0.5002747
+        },
+        {
+          "id": "Problems",
+          "order": 1,
+          "anchor": "BOTTOM"
+        },
+        {
+          "id": "Problems View",
+          "order": 2,
+          "anchor": "BOTTOM",
+          "weight": 0.29759616
+        },
+        {
+          "id": "Terminal",
+          "order": 3,
+          "anchor": "BOTTOM",
+          "weight": 0.48686773,
+          "sideWeight": 0.5002747
+        },
+        {
+          "id": "Run",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "isVisible": true,
+          "weight": 0.5783074,
+          "sideWeight": 0.44093406
+        },
+        {
+          "id": "NuGet",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.33803502,
+          "sideWeight": 0.5002747
+        },
+        {
+          "id": "Build",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.33803502,
+          "sideWeight": 0.5002747
+        },
+        {
+          "id": "dotMemory Profiler",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.297081
+        },
+        {
+          "id": "Debug",
+          "order": 4,
+          "anchor": "BOTTOM",
+          "weight": 0.33803502,
+          "sideWeight": 0.5002747
+        },
+        {
+          "id": "Services",
+          "order": 5,
+          "anchor": "BOTTOM",
+          "weight": 0.12791827,
+          "sideWeight": 0.55906594,
+          "isSplit": true
+        },
+        {
+          "id": "Notifications",
+          "order": 0,
+          "anchor": "RIGHT",
+          "contentUiType": "COMBO",
+          "weight": 0.25
+        },
+        {
+          "id": "AIAssistant",
+          "order": 1,
+          "anchor": "RIGHT",
+          "weight": 0.32991588
+        },
+        {
+          "id": "Database",
+          "order": 2,
+          "anchor": "RIGHT",
+          "weight": 0.32991588
+        },
+        {
+          "id": "Gradle",
+          "order": 3,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Maven",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.25
+        },
+        {
+          "id": "Endpoints",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.32991588
+        },
+        {
+          "id": "Monitoring",
+          "order": 4,
+          "anchor": "RIGHT",
+          "weight": 0.32991588
+        }
+      ],
+      "unifiedWeights": {
+        "top": 0.33,
+        "left": 0.17849633,
+        "bottom": 0.5783074,
+        "right": 0.32991588
+      }
+    }
+  }
+}]]></component>
+</application>

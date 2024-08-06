@@ -1,0 +1,153 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="BebraDb" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf ideFingerprint="1i0fyq6o0pote">
+      <file>
+        <entry file="file://$PROJECT_DIR$/Program.fs">
+          <provider editor-type-id="text-editor" selected="true">
+            <state relative-caret-position="220">
+              <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+              <folding>
+                <marker date="1720913983613" expanded="false" signature="0:66" ph="..." />
+                <marker date="1720913983613" expanded="true" signature="110:316" ph=" ..." />
+                <marker date="1720913983613" expanded="true" signature="348:964" ph=" =  ..." />
+                <marker date="1720913983613" expanded="true" signature="1165:1474" ph="= SqlDataProvider&lt;  ..." />
+                <marker date="1720913983613" expanded="true" signature="1552:1604" ph="for user in users do ..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary"><![CDATA[{
+  "data": {
+    "F#": {
+      "usageCount": 1,
+      "lastUsed": 1720914848589
+    }
+  }
+}]]></component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace />
+    </replaceStrings>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea/.idea.BebraDb.dir/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="F#">
+      <summary usageCount="1" lastUsage="1720914848632" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="0.9" version="1" />
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BebraDb" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="BebraDb" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </select>
+        </subPane>
+        <option name="show-all-files" value="false" />
+        <option name="show-project-imports" value="true" />
+        <option name="autoscroll-all" value="false" />
+        <option name="show-scratches" value="true" />
+        <option name="search-dependencies" value="false" />
+        <option name="show-unreal-project-files" value="true" />
+      </pane>
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="BebraDb" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="BebraDb" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </select>
+        </subPane>
+      </pane>
+      <pane id="AssemblyExplorer" />
+    </panes>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="79000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.5005219" visible="true" weight="0.14747635" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Structure" order="2" sideWeight="0.49947807" side_tool="true" weight="0.09542587" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Problems" order="1" />
+      <window_info anchor="bottom" id="Problems View" order="2" weight="0.29759616" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.2975728" />
+      <window_info anchor="bottom" id="Run" order="4" visible="true" weight="0.2975728" />
+      <window_info anchor="bottom" id="Services" order="4" weight="0.29759616" />
+      <window_info anchor="bottom" id="Build" order="4" weight="0.29759616" />
+      <window_info anchor="bottom" id="dotMemory Profiler" order="4" weight="0.29759616" />
+      <window_info anchor="right" content_ui="combo" id="Notifications" order="0" weight="0.25" />
+      <window_info anchor="right" id="AIAssistant" order="1" weight="0.33009452" />
+      <window_info anchor="right" id="Database" order="2" weight="0.25" />
+      <window_info anchor="right" id="Gradle" order="3" weight="0.25" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.25" />
+      <window_info anchor="right" id="Endpoints" order="4" weight="0.32994792" />
+      <window_info anchor="right" id="Monitoring" order="4" visible="true" weight="0.33009452" />
+      <unified_weights bottom="0.2975728" left="0.14747635" right="0.33009452" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Structure</value>
+    </recentWindows>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Program.fs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="12" column="20" selection-start-line="12" selection-start-column="20" selection-end-line="12" selection-end-column="20" />
+          <folding>
+            <marker date="1720913983613" expanded="false" signature="0:66" ph="..." />
+            <marker date="1720913983613" expanded="true" signature="110:316" ph=" ..." />
+            <marker date="1720913983613" expanded="true" signature="348:964" ph=" =  ..." />
+            <marker date="1720913983613" expanded="true" signature="1165:1474" ph="= SqlDataProvider&lt;  ..." />
+            <marker date="1720913983613" expanded="true" signature="1552:1604" ph="for user in users do ..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
